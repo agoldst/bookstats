@@ -1,301 +1,313 @@
 source,year,category,count,note,issue,page
-pw,1888,new fiction,874,,939,146
-pw,1888,new books,4631,,939,146
-pw,1889,new fiction,942,,939,146
-pw,1889,new books,4014,,939,146
-pw,1890,new fiction US,935,NB special new-ed breakout,991,146
-pw,1890,new fiction ed US,105,NB special new-ed breakout,991,146
-pw,1890,new books US,3180,NB special new-ed breakout,991,146
-pw,1890,new ed US,353,NB special new-ed breakout,991,146
-pw,1890,new fiction imported,57,NB special new-ed breakout,991,146
-pw,1890,new fiction ed imported,31,NB special new-ed breakout,991,146
-pw,1890,new books imported,933,NB special new-ed breakout,991,146
-pw,1890,new ed imported,93,NB special new-ed breakout,991,146
-pw,1891,fiction,1105,no new-ed or import breakout,1044,187
-pw,1891,books,4665,no new-ed or import breakout,1044,187
-pw,1892,new fiction,735,copyright means fewer rpts,1096,170
-pw,1892,new fiction ed,367,,1096,170
-pw,1892,new books,4074,,1096,170
-pw,1892,new ed,788,,1096,170
-pw,1893,new fiction,772,,1148,165
-pw,1893,new fiction ed,360,,1148,165
-pw,1893,new books,4281,includes UK imports,1148,165
-pw,1893,new ed,853,includes UK imports,1148,165
-pw,1893,new fiction US,263,,1148,165
-pw,1893,new UK fiction US manufacture,834,,1148,165
-pw,1893,new UK fiction import sheets,35,,1148,165
-pw,1893,new books US,2803,,1148,165
-pw,1893,new UK books US manufacture,1180,,1148,165
-pw,1893,new UK books import sheets,1151,,1148,165
-pw,1894,new fiction,573,,1200,171
-pw,1894,new fiction ed,156,,1200,171
-pw,1894,new books,3837,,1200,171
-pw,1894,new ed,647,,1200,171
-pw,1894,new fiction US,370,,1200,171
-pw,1894,new UK fiction US manufacture,297,,1200,171
-pw,1894,new UK fiction import sheets,62,,1200,171
-pw,1894,new books US,2821,,1200,171
-pw,1894,new UK books US manufacture,577,,1200,171
-pw,1894,new UK books import sheets,1086,,1200,171
-pw,1895,new fiction,1050,,1252,177
-pw,1895,new fiction ed,64,,1252,177
-pw,1895,new books,5101,,1252,177
-pw,1895,new ed,368,,1252,177
-pw,1895,new fiction US,287,,1252,177
-pw,1895,new UK fiction US manufacture,589,,1252,177
-pw,1895,new UK fiction import sheets,238,,1252,177
-pw,1895,new books US,3396,,1252,177
-pw,1895,new UK books US manufacture,847,,1252,177
-pw,1895,new UK books import sheets,1226,,1252,177
-pw,1896,new fiction,1012,,1305,211
-pw,1896,new fiction ed,102,,1305,211
-pw,1896,new books,5189,,1305,211
-pw,1896,new ed,514,,1305,211
-pw,1896,new fiction US,270,,1305,212
-pw,1896,new UK fiction US manufacture,690,,1305,212
-pw,1896,new UK fiction import sheets,154,,1305,212
-pw,1896,new books US,3300,,1305,212
-pw,1896,new UK books US manufacture,1261,,1305,212
-pw,1896,new UK books import sheets,1142,,1305,212
-pw,1897,new fiction,713,,1357,217
-pw,1897,new fiction ed,156,,1357,217
-pw,1897,new books,4171,,1357,217
-pw,1897,new ed,757,,1357,217
-pw,1897,new fiction US,358,,1357,217
-pw,1897,new UK fiction US manufacture,352,,1357,217
-pw,1897,new UK fiction import sheets,159,,1357,217
-pw,1897,new books US,3318,,1357,217
-pw,1897,new UK books US manufacture,495,,1357,217
-pw,1897,new UK books import sheets,1115,,1357,217
-pw,1898,new fiction,724,,1409,170
-pw,1898,new fiction ed,181,,1409,170
-pw,1898,new books,4332,,1409,170
-pw,1898,new ed,554,,1409,170
-pw,1898,new fiction US,358,,1409,170
-pw,1898,new UK fiction US manufacture,391,,1409,170
-pw,1898,new UK fiction import sheets,156,,1409,170
-pw,1898,new books US,2908,,1409,170
-pw,1898,new UK books US manufacture,834,,1409,170
-pw,1898,new UK books import sheets,1144,,1409,170
-pw,1899,new fiction,749,,1461,192
-pw,1899,new fiction ed,183,,1461,192
-pw,1899,new books,4749,,1461,192
-pw,1899,new ed,572,,1461,192
-pw,1899,new fiction US,358,,1461,193
-pw,1899,new UK fiction US manufacture,457,,1461,193
-pw,1899,new UK fiction import sheets,121,,1461,193
-pw,1899,new books US,3626,,1461,193
-pw,1899,new UK books US manufacture,571,,1461,193
-pw,1899,new UK books import sheets,1124,,1461,193
-pw,1900,new fiction,616,,1513,80
-pw,1900,new fiction ed,662,,1513,80
-pw,1900,new books,4490,,1513,80
-pw,1900,new ed,1866,,1513,80
-pw,1900,new fiction US,659,,1513,80
-pw,1900,new UK fiction US manufacture,453,,1513,80
-pw,1900,new UK fiction import sheets,166,,1513,80
-pw,1900,new books US,3878,,1513,80
-pw,1900,new UK books US manufacture,1388,,1513,80
-pw,1900,new UK books import sheets,1090,,1513,80
-pw,1901,new fiction,914,,1565,84
-pw,1901,new fiction ed,1320,,1565,84
-pw,1901,new books,5496,,1565,84
-pw,1901,new ed,2645,,1565,84
-pw,1901,new fiction US,981,,1565,84
-pw,1901,new UK fiction US manufacture,1028,,1565,84
-pw,1901,new UK fiction import sheets,225,,1565,84
-pw,1901,new books US,4701,,1565,84
-pw,1901,new UK books US manufacture,2122,,1565,84
-pw,1901,new UK books import sheets,1318,,1565,84
-pw,1902,new fiction,838,,1618,141
-pw,1902,new fiction ed,959,,1618,141
-pw,1902,new books,5485,,1618,141
-pw,1902,new ed,2348,,1618,141
-pw,1902,new fiction US,903,,1618,141
-pw,1902,new UK fiction US manufacture,818,,1618,141
-pw,1902,new UK fiction import sheets,76,,1618,141
-pw,1902,new books US,5210,,1618,141
-pw,1902,new UK books US manufacture,1578,,1618,141
-pw,1902,new UK books import sheets,1045,,1618,141
-pw,1903,new fiction,816,,1670,146
-pw,1903,new fiction ed,644,,1670,146
-pw,1903,new books,5793,,1670,146
-pw,1903,new ed,2072,,1670,146
-pw,1903,new fiction US,977,,1670,147
-pw,1903,new UK fiction US manufacture,396,,1670,147
-pw,1903,new UK fiction import sheets,87,,1670,147
-pw,1903,new books US,5621,,1670,147
-pw,1903,new UK books US manufacture,1356,,1670,147
-pw,1903,new UK books import sheets,888,,1670,147
-pw,1904,new fiction,1007,,1722,105
-pw,1904,new fiction ed,814,,1722,105
-pw,1904,new books,6971,,1722,105
-pw,1904,new ed,1320,,1722,105
-pw,1904,new fiction US,1262,,1722,106
-pw,1904,new UK fiction US manufacture,491,,1722,106
-pw,1904,new UK fiction import sheets,68,,1722,106
-pw,1904,new books US,5978,,1722,106
-pw,1904,new UK books US manufacture,1288,,1722,106
-pw,1904,new UK books import sheets,1025,,1722,106
-pw,1905,new fiction,1008,,1774,125
-pw,1905,new fiction ed,356,,1774,125
-pw,1905,new books,7514,cheap series newly omitted,1774,125
-pw,1905,new ed,598,,1774,125
-pw,1905,new fiction US,992,,1774,126
-pw,1905,new UK fiction US manufacture,314,,1774,126
-pw,1905,new UK fiction import sheets,58,,1774,126
-pw,1905,new books US,5719,,1774,126
-pw,1905,new UK books US manufacture,1426,,1774,126
-pw,1905,new UK books import sheets,967,,1774,126
-pw,1906,new fiction,1075,,1826,143
-pw,1906,new fiction ed,96,,1826,143
-pw,1906,new books,6724,,1826,143
-pw,1906,new ed,415,,1826,143
-pw,1906,new fiction US,753,,1826,144
-pw,1906,new UK fiction US manufacture,295,,1826,144
-pw,1906,new UK fiction import sheets,123,,1826,144
-pw,1906,new books US,5093,,1826,144
-pw,1906,new UK books US manufacture,1072,,1826,144
-pw,1906,new UK books import sheets,974,,1826,144
-pw,1907,new fiction,1150,,1878,141
-pw,1907,new fiction ed,21,,1878,141
-pw,1907,new books,8925,,1878,141
-pw,1907,new ed,695,,1878,141
-pw,1907,new fiction US,675,,1878,141
-pw,1907,new UK fiction US manufacture,353,,1878,141
-pw,1907,new UK fiction import sheets,143,,1878,141
-pw,1907,new books US,6517,,1878,141
-pw,1907,new UK books US manufacture,1319,,1878,141
-pw,1907,new UK books import sheets,695,,1878,141
-pw,1908,new fiction,1458,,1931,167
-pw,1908,new fiction ed,31,,1931,167
-pw,1908,new books,8745,,1931,167
-pw,1908,new ed,509,,1931,167
-pw,1908,new fiction US,802,,1931,168
-pw,1908,new UK fiction US manufacture,456,,1931,168
-pw,1908,new UK fiction import sheets,231,,1931,168
-pw,1908,new books US,6349,,1931,168
-pw,1908,new UK books US manufacture,1145,,1931,168
-pw,1908,new UK books import sheets,1760,,1931,168
-pw,1909,new fiction,1087,,1983,171
-pw,1909,new fiction ed,11,,1983,171
-pw,1909,new books,10193,,1983,171
-pw,1909,new ed,708,,1983,171
-pw,1909,new fiction US,639,,1983,171
-pw,1909,new UK fiction US manufacture,212,,1983,171
-pw,1909,new UK fiction import sheets,285,,1983,171
-pw,1909,new books US,8308,,1983,171
-pw,1909,new UK books US manufacture,828,,1983,171
-pw,1909,new UK books import sheets,1765,,1983,171
-pw,1910,new fiction,1303,,2034,112
-pw,1910,new fiction ed,236,,2034,112
-pw,1910,new books,11671,,2034,112
-pw,1910,new ed,1799,,2034,112
-pw,1910,new fiction US,815,,2034,113
-pw,1910,new UK fiction US manufacture,524,,2034,113
-pw,1910,new UK fiction import sheets,200,,2034,113
-pw,1910,new books US,9209,,2034,113
-pw,1910,new UK books US manufacture,1215,,2034,113
-pw,1910,new UK books import sheets,3046,,2034,113
-pw,1911,new fiction,999,NB intl classification newly adopted,2086,278
-pw,1911,new fiction ed,25,NB intl classification newly adopted,2086,278
-pw,1911,new fiction US,701,NB intl classification newly adopted,2086,278
-pw,1911,new foreign fiction US manufacture,121,NB intl classification newly adopted,2086,278
-pw,1911,new foreign fiction import sheets,202,NB intl classification newly adopted,2086,278
-pw,1911,new books,10440,NB intl classification newly adopted,2086,278
-pw,1911,new ed,783,NB intl classification newly adopted,2086,278
-pw,1911,new books US,8183,NB intl classification newly adopted,2086,278
-pw,1911,new foreign books US manufacture,771,NB intl classification newly adopted,2086,278
-pw,1911,new foreign books import sheets,2269,NB intl classification newly adopted,2086,278
-pw,1912,new fiction,960,,2138,254
-pw,1912,new fiction ed,50,,2138,254
-pw,1912,new fiction US,712,,2138,254
-pw,1912,new foreign fiction US manufacture,110,,2138,254
-pw,1912,new foreign fiction import sheets,188,,2138,254
-pw,1912,new books,10135,,2138,254
-pw,1912,new ed,768,,2138,254
-pw,1912,new books US,7975,,2138,254
-pw,1912,new foreign books US manufacture,504,,2138,254
-pw,1912,new foreign books import sheets,2424,,2138,254
-pw,1913,new fiction,943,NB changed edition classification,2910,273
-pw,1913,new fiction ed,213,NB changed edition classification,2910,273
-pw,1913,new fiction US,790,NB changed edition classification,2910,273
-pw,1913,new foreign fiction US manufacture,164,NB changed edition classification,2910,273
-pw,1913,new foreign fiction import sheets,202,NB changed edition classification,2910,273
-pw,1913,new books,10607,NB changed edition classification,2910,273
-pw,1913,new ed,1623,NB changed edition classification,2910,273
-pw,1913,new books US,9085,NB changed edition classification,2910,273
-pw,1913,new foreign books US manufacture,677,NB changed edition classification,2910,273
-pw,1913,new foreign books import sheets,2468,NB changed edition classification,2910,273
-pw,1914,new fiction,832,,2242,226
-pw,1914,new fiction ed,221,,2242,226
-pw,1914,new fiction US,689,,2242,226
-pw,1914,new foreign fiction US manufacture,118,,2242,226
-pw,1914,new foreign fiction import sheets,246,,2242,226
-pw,1914,new books,10175,,2242,226
-pw,1914,new ed,1835,,2242,226
-pw,1914,new books US,8563,,2242,226
-pw,1914,new foreign books US manufacture,595,,2242,226
-pw,1914,new foreign books import sheets,2852,,2242,226
-pw,1915,new fiction,728,,2294,249
-pw,1915,new fiction ed,191,,2294,249
-pw,1915,new fiction US,643,,2294,249
-pw,1915,new foreign fiction US manufacture,80,,2294,249
-pw,1915,new foreign fiction import sheets,196,,2294,249
-pw,1915,new books,8349,,2294,249
-pw,1915,new ed,1385,,2294,249
-pw,1915,new books US,6932,,2294,249
-pw,1915,new foreign books US manufacture,464,,2294,249
-pw,1915,new foreign books import sheets,2338,,2294,249
-pw,1916,new fiction,736,,2347,257
-pw,1916,new fiction ed,196,,2347,257
-pw,1916,new fiction US,703,,2347,257
-pw,1916,new foreign fiction US manufacture,79,,2347,257
-pw,1916,new foreign fiction import sheets,150,,2347,257
-pw,1916,new books,9160,,2347,257
-pw,1916,new ed,1285,,2347,257
-pw,1916,new books US,8430,,2347,257
-pw,1916,new foreign books US manufacture,367,,2347,257
-pw,1916,new foreign books import sheets,1648,,2347,257
-pw,1917,new fiction,677   ,,2399,247
-pw,1917,new fiction ed,245 ,,2399,247
-pw,1917,new fiction US,632    ,,2399,247
-pw,1917,new foreign fiction US manufacture,156,,2399,247
-pw,1917,new foreign fiction import sheets,134,,2399,247
-pw,1917,new books,8849,,2399,247
-pw,1917,new ed,1121,,2399,247
-pw,1917,new books US,8107,,2399,247
-pw,1917,new foreign books US manufacture,629,,2399,247
-pw,1917,new foreign books import sheets,1324,,2399,247
-pw,1918,new fiction,620,,95.4,228
-pw,1918,new fiction ed,168,,95.4,228
-pw,1918,new fiction US,594,,95.4,228
-pw,1918,new foreign fiction US manufacture,157,,95.4,228
-pw,1918,new foreign fiction import sheets,37,,95.4,228
-pw,1918,new books,8085,,95.4,228
-pw,1918,new ed,1152,,95.4,228
-pw,1918,new books US,7686,,95.4,228
-pw,1918,new foreign books US manufacture,648,,95.4,228
-pw,1918,new foreign books import sheets,903,,95.4,228
-pw,1919,new fiction,671,,97.5,284
-pw,1919,new fiction ed,233,,97.5,284
-pw,1919,new fiction US,661,,97.5,284
-pw,1919,new foreign fiction US manufacture,208,,97.5,284
-pw,1919,new foreign fiction import sheets,35,,97.5,284
-pw,1919,new books,7625,,97.5,284
-pw,1919,new ed,969,,97.5,284
-pw,1919,new books US,7179,,97.5,284
-pw,1919,new foreign books US manufacture,607,,97.5,284
-pw,1919,new foreign books import sheets,808,,97.5,284
-pw,1920,new fiction,778,NB pamphlets newly separated out,99.5,273
-pw,1920,new fiction ed,345,,99.5,273
-pw,1920,pamphlets,31,,99.5,273
-pw,1920,new fiction US,861,,99.5,273
-pw,1920,new foreign fiction US manufacture,232,,99.5,273
-pw,1920,new foreign fiction import sheets,61,,99.5,273
-pw,1920,new books,5101,,99.5,273
-pw,1920,new ed,1086,,99.5,273
-pw,1920,pamphlets,2235,,99.5,273
-pw,1920,new books US,6831,,99.5,273
-pw,1920,new foreign books US manufacture,615,,99.5,273
-pw,1920,new foreign books import sheets,976,,99.5,273
+mdp.39015033511257,1888,new fiction,874,,939,146
+mdp.39015033511257,1888,new books,4631,,939,146
+mdp.39015033511257,1889,new fiction,942,,939,146
+mdp.39015033511257,1889,new books,4014,,939,146
+mdp.39015012108448,1890,new fiction US,935,NB special new-ed breakout,991,146
+mdp.39015012108448,1890,new fiction ed US,105,NB special new-ed breakout,991,146
+mdp.39015012108448,1890,new books US,3180,NB special new-ed breakout,991,146
+mdp.39015012108448,1890,new ed US,353,NB special new-ed breakout,991,146
+mdp.39015012108448,1890,new fiction imported,57,NB special new-ed breakout,991,146
+mdp.39015012108448,1890,new fiction ed imported,31,NB special new-ed breakout,991,146
+mdp.39015012108448,1890,new books imported,933,NB special new-ed breakout,991,146
+mdp.39015012108448,1890,new ed imported,93,NB special new-ed breakout,991,146
+mdp.39015033511281,1891,fiction,1105,no new-ed or import breakout,1044,187
+mdp.39015033511281,1891,books,4665,no new-ed or import breakout,1044,187
+mdp.39015033511307,1892,new fiction,735,copyright means fewer rpts,1096,170
+mdp.39015033511307,1892,new fiction ed,367,,1096,170
+mdp.39015033511307,1892,new books,4074,,1096,170
+mdp.39015033511307,1892,new ed,788,,1096,170
+mdp.39015033511323,1893,new fiction,772,,1148,165
+mdp.39015033511323,1893,new fiction ed,360,,1148,165
+mdp.39015033511323,1893,new books,4281,includes UK imports,1148,165
+mdp.39015033511323,1893,new ed,853,includes UK imports,1148,165
+mdp.39015033511323,1893,new fiction US,263,,1148,165
+mdp.39015033511323,1893,new UK fiction US manufacture,834,,1148,165
+mdp.39015033511323,1893,new UK fiction import sheets,35,,1148,165
+mdp.39015033511323,1893,new books US,2803,,1148,165
+mdp.39015033511323,1893,new UK books US manufacture,1180,,1148,165
+mdp.39015033511323,1893,new UK books import sheets,1151,,1148,165
+mdp.39015033511349,1894,new fiction,573,,1200,171
+mdp.39015033511349,1894,new fiction ed,156,,1200,171
+mdp.39015033511349,1894,new books,3837,,1200,171
+mdp.39015033511349,1894,new ed,647,,1200,171
+mdp.39015033511349,1894,new fiction US,370,,1200,171
+mdp.39015033511349,1894,new UK fiction US manufacture,297,,1200,171
+mdp.39015033511349,1894,new UK fiction import sheets,62,,1200,171
+mdp.39015033511349,1894,new books US,2821,,1200,171
+mdp.39015033511349,1894,new UK books US manufacture,577,,1200,171
+mdp.39015033511349,1894,new UK books import sheets,1086,,1200,171
+mdp.39015033511364,1895,new fiction,1050,,1252,177
+mdp.39015033511364,1895,new fiction ed,64,,1252,177
+mdp.39015033511364,1895,new books,5101,,1252,177
+mdp.39015033511364,1895,new ed,368,,1252,177
+mdp.39015033511364,1895,new fiction US,287,,1252,177
+mdp.39015033511364,1895,new UK fiction US manufacture,589,,1252,177
+mdp.39015033511364,1895,new UK fiction import sheets,238,,1252,177
+mdp.39015033511364,1895,new books US,3396,,1252,177
+mdp.39015033511364,1895,new UK books US manufacture,847,,1252,177
+mdp.39015033511364,1895,new UK books import sheets,1226,,1252,177
+mdp.39015033511380,1896,new fiction,1012,,1305,211
+mdp.39015033511380,1896,new fiction ed,102,,1305,211
+mdp.39015033511380,1896,new books,5189,,1305,211
+mdp.39015033511380,1896,new ed,514,,1305,211
+mdp.39015033511380,1896,new fiction US,270,,1305,212
+mdp.39015033511380,1896,new UK fiction US manufacture,690,,1305,212
+mdp.39015033511380,1896,new UK fiction import sheets,154,,1305,212
+mdp.39015033511380,1896,new books US,3300,,1305,212
+mdp.39015033511380,1896,new UK books US manufacture,1261,,1305,212
+mdp.39015033511380,1896,new UK books import sheets,1142,,1305,212
+mdp.39015033511406,1897,new fiction,713,,1357,217
+mdp.39015033511406,1897,new fiction ed,156,,1357,217
+mdp.39015033511406,1897,new books,4171,,1357,217
+mdp.39015033511406,1897,new ed,757,,1357,217
+mdp.39015033511406,1897,new fiction US,358,,1357,217
+mdp.39015033511406,1897,new UK fiction US manufacture,352,,1357,217
+mdp.39015033511406,1897,new UK fiction import sheets,159,,1357,217
+mdp.39015033511406,1897,new books US,3318,,1357,217
+mdp.39015033511406,1897,new UK books US manufacture,495,,1357,217
+mdp.39015033511406,1897,new UK books import sheets,1115,,1357,217
+mdp.39015033511422,1898,new fiction,724,,1409,170
+mdp.39015033511422,1898,new fiction ed,181,,1409,170
+mdp.39015033511422,1898,new books,4332,,1409,170
+mdp.39015033511422,1898,new ed,554,,1409,170
+mdp.39015033511422,1898,new fiction US,358,,1409,170
+mdp.39015033511422,1898,new UK fiction US manufacture,391,,1409,170
+mdp.39015033511422,1898,new UK fiction import sheets,156,,1409,170
+mdp.39015033511422,1898,new books US,2908,,1409,170
+mdp.39015033511422,1898,new UK books US manufacture,834,,1409,170
+mdp.39015033511422,1898,new UK books import sheets,1144,,1409,170
+mdp.39015033511448,1899,new fiction,749,,1461,192
+mdp.39015033511448,1899,new fiction ed,183,,1461,192
+mdp.39015033511448,1899,new books,4749,,1461,192
+mdp.39015033511448,1899,new ed,572,,1461,192
+mdp.39015033511448,1899,new fiction US,358,,1461,193
+mdp.39015033511448,1899,new UK fiction US manufacture,457,,1461,193
+mdp.39015033511448,1899,new UK fiction import sheets,121,,1461,193
+mdp.39015033511448,1899,new books US,3626,,1461,193
+mdp.39015033511448,1899,new UK books US manufacture,571,,1461,193
+mdp.39015033511448,1899,new UK books import sheets,1124,,1461,193
+mdp.39015033511463,1900,new fiction,616,,1513,80
+mdp.39015033511463,1900,new fiction ed,662,,1513,80
+mdp.39015033511463,1900,new books,4490,,1513,80
+mdp.39015033511463,1900,new ed,1866,,1513,80
+mdp.39015033511463,1900,new fiction US,659,,1513,80
+mdp.39015033511463,1900,new UK fiction US manufacture,453,,1513,80
+mdp.39015033511463,1900,new UK fiction import sheets,166,,1513,80
+mdp.39015033511463,1900,new books US,3878,,1513,80
+mdp.39015033511463,1900,new UK books US manufacture,1388,,1513,80
+mdp.39015033511463,1900,new UK books import sheets,1090,,1513,80
+mdp.39015033511489,1901,new fiction,914,,1565,84
+mdp.39015033511489,1901,new fiction ed,1320,,1565,84
+mdp.39015033511489,1901,new books,5496,,1565,84
+mdp.39015033511489,1901,new ed,2645,,1565,84
+mdp.39015033511489,1901,new fiction US,981,,1565,84
+mdp.39015033511489,1901,new UK fiction US manufacture,1028,,1565,84
+mdp.39015033511489,1901,new UK fiction import sheets,225,,1565,84
+mdp.39015033511489,1901,new books US,4701,,1565,84
+mdp.39015033511489,1901,new UK books US manufacture,2122,,1565,84
+mdp.39015033511489,1901,new UK books import sheets,1318,,1565,84
+mdp.39015033468185,1902,new fiction,838,,1618,141
+mdp.39015033468185,1902,new fiction ed,959,,1618,141
+mdp.39015033468185,1902,new books,5485,,1618,141
+mdp.39015033468185,1902,new ed,2348,,1618,141
+mdp.39015033468185,1902,new fiction US,903,,1618,141
+mdp.39015033468185,1902,new UK fiction US manufacture,818,,1618,141
+mdp.39015033468185,1902,new UK fiction import sheets,76,,1618,141
+mdp.39015033468185,1902,new books US,5210,,1618,141
+mdp.39015033468185,1902,new UK books US manufacture,1578,,1618,141
+mdp.39015033468185,1902,new UK books import sheets,1045,,1618,141
+mdp.39015033468177,1903,new fiction,816,,1670,146
+mdp.39015033468177,1903,new fiction ed,644,,1670,146
+mdp.39015033468177,1903,new books,5793,,1670,146
+mdp.39015033468177,1903,new ed,2072,,1670,146
+mdp.39015033468177,1903,new fiction US,977,,1670,147
+mdp.39015033468177,1903,new UK fiction US manufacture,396,,1670,147
+mdp.39015033468177,1903,new UK fiction import sheets,87,,1670,147
+mdp.39015033468177,1903,new books US,5621,,1670,147
+mdp.39015033468177,1903,new UK books US manufacture,1356,,1670,147
+mdp.39015033468177,1903,new UK books import sheets,888,,1670,147
+mdp.39015033468151,1904,new fiction,1007,,1722,105
+mdp.39015033468151,1904,new fiction ed,814,,1722,105
+mdp.39015033468151,1904,new books,6971,,1722,105
+mdp.39015033468151,1904,new ed,1320,,1722,105
+mdp.39015033468151,1904,new fiction US,1262,,1722,106
+mdp.39015033468151,1904,new UK fiction US manufacture,491,,1722,106
+mdp.39015033468151,1904,new UK fiction import sheets,68,,1722,106
+mdp.39015033468151,1904,new books US,5978,,1722,106
+mdp.39015033468151,1904,new UK books US manufacture,1288,,1722,106
+mdp.39015033468151,1904,new UK books import sheets,1025,,1722,106
+mdp.39015033468136,1905,new fiction,1008,,1774,125
+mdp.39015033468136,1905,new fiction ed,356,,1774,125
+mdp.39015033468136,1905,new books,7514,cheap series newly omitted,1774,125
+mdp.39015033468136,1905,new ed,598,,1774,125
+mdp.39015033468136,1905,new fiction US,992,,1774,126
+mdp.39015033468136,1905,new UK fiction US manufacture,314,,1774,126
+mdp.39015033468136,1905,new UK fiction import sheets,58,,1774,126
+mdp.39015033468136,1905,new books US,5719,,1774,126
+mdp.39015033468136,1905,new UK books US manufacture,1426,,1774,126
+mdp.39015033468136,1905,new UK books import sheets,967,,1774,126
+mdp.39015033468110,1906,new fiction,1075,,1826,143
+mdp.39015033468110,1906,new fiction ed,96,,1826,143
+mdp.39015033468110,1906,new books,6724,,1826,143
+mdp.39015033468110,1906,new ed,415,,1826,143
+mdp.39015033468110,1906,new fiction US,753,,1826,144
+mdp.39015033468110,1906,new UK fiction US manufacture,295,,1826,144
+mdp.39015033468110,1906,new UK fiction import sheets,123,,1826,144
+mdp.39015033468110,1906,new books US,5093,,1826,144
+mdp.39015033468110,1906,new UK books US manufacture,1072,,1826,144
+mdp.39015033468110,1906,new UK books import sheets,974,,1826,144
+mdp.39015033468094,1907,new fiction,1150,,1878,141
+mdp.39015033468094,1907,new fiction ed,21,,1878,141
+mdp.39015033468094,1907,new books,8925,,1878,141
+mdp.39015033468094,1907,new ed,695,,1878,141
+mdp.39015033468094,1907,new fiction US,675,,1878,141
+mdp.39015033468094,1907,new UK fiction US manufacture,353,,1878,141
+mdp.39015033468094,1907,new UK fiction import sheets,143,,1878,141
+mdp.39015033468094,1907,new books US,6517,,1878,141
+mdp.39015033468094,1907,new UK books US manufacture,1319,,1878,141
+mdp.39015033468094,1907,new UK books import sheets,695,,1878,141
+mdp.39015033468078,1908,new fiction,1458,,1931,167
+mdp.39015033468078,1908,new fiction ed,31,,1931,167
+mdp.39015033468078,1908,new books,8745,,1931,167
+mdp.39015033468078,1908,new ed,509,,1931,167
+mdp.39015033468078,1908,new fiction US,802,,1931,168
+mdp.39015033468078,1908,new UK fiction US manufacture,456,,1931,168
+mdp.39015033468078,1908,new UK fiction import sheets,231,,1931,168
+mdp.39015033468078,1908,new books US,6349,,1931,168
+mdp.39015033468078,1908,new UK books US manufacture,1145,,1931,168
+mdp.39015033468078,1908,new UK books import sheets,1760,,1931,168
+mdp.39015033468052,1909,new fiction,1087,,1983,171
+mdp.39015033468052,1909,new fiction ed,11,,1983,171
+mdp.39015033468052,1909,new books,10193,,1983,171
+mdp.39015033468052,1909,new ed,708,,1983,171
+mdp.39015033468052,1909,new fiction US,639,,1983,171
+mdp.39015033468052,1909,new UK fiction US manufacture,212,,1983,171
+mdp.39015033468052,1909,new UK fiction import sheets,285,,1983,171
+mdp.39015033468052,1909,new books US,8308,,1983,171
+mdp.39015033468052,1909,new UK books US manufacture,828,,1983,171
+mdp.39015033468052,1909,new UK books import sheets,1765,,1983,171
+mdp.39015033468037,1910,new fiction,1303,,2034,112
+mdp.39015033468037,1910,new fiction ed,236,,2034,112
+mdp.39015033468037,1910,new books,11671,,2034,112
+mdp.39015033468037,1910,new ed,1799,,2034,112
+mdp.39015033468037,1910,new fiction US,815,,2034,113
+mdp.39015033468037,1910,new UK fiction US manufacture,524,,2034,113
+mdp.39015033468037,1910,new UK fiction import sheets,200,,2034,113
+mdp.39015033468037,1910,new books US,9209,,2034,113
+mdp.39015033468037,1910,new UK books US manufacture,1215,,2034,113
+mdp.39015033468037,1910,new UK books import sheets,3046,,2034,113
+mdp.39015033468011,1911,new fiction,999,NB intl classification newly adopted,2086,278
+mdp.39015033468011,1911,new fiction ed,25,NB intl classification newly adopted,2086,278
+mdp.39015033468011,1911,new fiction US,701,NB intl classification newly adopted,2086,278
+mdp.39015033468011,1911,new foreign fiction US manufacture,121,NB intl classification newly adopted,2086,278
+mdp.39015033468011,1911,new foreign fiction import sheets,202,NB intl classification newly adopted,2086,278
+mdp.39015033468011,1911,new books,10440,NB intl classification newly adopted,2086,278
+mdp.39015033468011,1911,new ed,783,NB intl classification newly adopted,2086,278
+mdp.39015033468011,1911,new books US,8183,NB intl classification newly adopted,2086,278
+mdp.39015033468011,1911,new foreign books US manufacture,771,NB intl classification newly adopted,2086,278
+mdp.39015033468011,1911,new foreign books import sheets,2269,NB intl classification newly adopted,2086,278
+mdp.39015033469050,1912,new fiction,960,,2138,254
+mdp.39015033469050,1912,new fiction ed,50,,2138,254
+mdp.39015033469050,1912,new fiction US,712,,2138,254
+mdp.39015033469050,1912,new foreign fiction US manufacture,110,,2138,254
+mdp.39015033469050,1912,new foreign fiction import sheets,188,,2138,254
+mdp.39015033469050,1912,new books,10135,,2138,254
+mdp.39015033469050,1912,new ed,768,,2138,254
+mdp.39015033469050,1912,new books US,7975,,2138,254
+mdp.39015033469050,1912,new foreign books US manufacture,504,,2138,254
+mdp.39015033469050,1912,new foreign books import sheets,2424,,2138,254
+mdp.39015033469035,1913,new fiction,943,NB changed edition classification,2910,273
+mdp.39015033469035,1913,new fiction ed,213,NB changed edition classification,2910,273
+mdp.39015033469035,1913,new fiction US,790,NB changed edition classification,2910,273
+mdp.39015033469035,1913,new foreign fiction US manufacture,164,NB changed edition classification,2910,273
+mdp.39015033469035,1913,new foreign fiction import sheets,202,NB changed edition classification,2910,273
+mdp.39015033469035,1913,new books,10607,NB changed edition classification,2910,273
+mdp.39015033469035,1913,new ed,1623,NB changed edition classification,2910,273
+mdp.39015033469035,1913,new books US,9085,NB changed edition classification,2910,273
+mdp.39015033469035,1913,new foreign books US manufacture,677,NB changed edition classification,2910,273
+mdp.39015033469035,1913,new foreign books import sheets,2468,NB changed edition classification,2910,273
+mdp.39015033469019,1914,new fiction,832,,2242,226
+mdp.39015033469019,1914,new fiction ed,221,,2242,226
+mdp.39015033469019,1914,new fiction US,689,,2242,226
+mdp.39015033469019,1914,new foreign fiction US manufacture,118,,2242,226
+mdp.39015033469019,1914,new foreign fiction import sheets,246,,2242,226
+mdp.39015033469019,1914,new books,10175,,2242,226
+mdp.39015033469019,1914,new ed,1835,,2242,226
+mdp.39015033469019,1914,new books US,8563,,2242,226
+mdp.39015033469019,1914,new foreign books US manufacture,595,,2242,226
+mdp.39015033469019,1914,new foreign books import sheets,2852,,2242,226
+mdp.39015033468755,1915,new fiction,728,,2294,249
+mdp.39015033468755,1915,new fiction ed,191,,2294,249
+mdp.39015033468755,1915,new fiction US,643,,2294,249
+mdp.39015033468755,1915,new foreign fiction US manufacture,80,,2294,249
+mdp.39015033468755,1915,new foreign fiction import sheets,196,,2294,249
+mdp.39015033468755,1915,new books,8349,,2294,249
+mdp.39015033468755,1915,new ed,1385,,2294,249
+mdp.39015033468755,1915,new books US,6932,,2294,249
+mdp.39015033468755,1915,new foreign books US manufacture,464,,2294,249
+mdp.39015033468755,1915,new foreign books import sheets,2338,,2294,249
+mdp.39015033468771,1916,new fiction,736,,2347,257
+mdp.39015033468771,1916,new fiction ed,196,,2347,257
+mdp.39015033468771,1916,new fiction US,703,,2347,257
+mdp.39015033468771,1916,new foreign fiction US manufacture,79,,2347,257
+mdp.39015033468771,1916,new foreign fiction import sheets,150,,2347,257
+mdp.39015033468771,1916,new books,9160,,2347,257
+mdp.39015033468771,1916,new ed,1285,,2347,257
+mdp.39015033468771,1916,new books US,8430,,2347,257
+mdp.39015033468771,1916,new foreign books US manufacture,367,,2347,257
+mdp.39015033468771,1916,new foreign books import sheets,1648,,2347,257
+mdp.39015033468797,1917,new fiction,677,,2399,247
+mdp.39015033468797,1917,new fiction ed,245,,2399,247
+mdp.39015033468797,1917,new fiction US,632,,2399,247
+mdp.39015033468797,1917,new foreign fiction US manufacture,156,,2399,247
+mdp.39015033468797,1917,new foreign fiction import sheets,134,,2399,247
+mdp.39015033468797,1917,new books,8849,,2399,247
+mdp.39015033468797,1917,new ed,1121,,2399,247
+mdp.39015033468797,1917,new books US,8107,,2399,247
+mdp.39015033468797,1917,new foreign books US manufacture,629,,2399,247
+mdp.39015033468797,1917,new foreign books import sheets,1324,,2399,247
+mdp.39015033468813,1918,new fiction,620,,95.4,228
+mdp.39015033468813,1918,new fiction ed,168,,95.4,228
+mdp.39015033468813,1918,new fiction US,594,,95.4,228
+mdp.39015033468813,1918,new foreign fiction US manufacture,157,,95.4,228
+mdp.39015033468813,1918,new foreign fiction import sheets,37,,95.4,228
+mdp.39015033468813,1918,new books,8085,,95.4,228
+mdp.39015033468813,1918,new ed,1152,,95.4,228
+mdp.39015033468813,1918,new books US,7686,,95.4,228
+mdp.39015033468813,1918,new foreign books US manufacture,648,,95.4,228
+mdp.39015033468813,1918,new foreign books import sheets,903,,95.4,228
+mdp.39015033468839,1919,new fiction,671,,97.5,284
+mdp.39015033468839,1919,new fiction ed,233,,97.5,284
+mdp.39015033468839,1919,new fiction US,661,,97.5,284
+mdp.39015033468839,1919,new foreign fiction US manufacture,208,,97.5,284
+mdp.39015033468839,1919,new foreign fiction import sheets,35,,97.5,284
+mdp.39015033468839,1919,new books,7625,,97.5,284
+mdp.39015033468839,1919,new ed,969,,97.5,284
+mdp.39015033468839,1919,new books US,7179,,97.5,284
+mdp.39015033468839,1919,new foreign books US manufacture,607,,97.5,284
+mdp.39015033468839,1919,new foreign books import sheets,808,,97.5,284
+mdp.39015033468995,1920,new fiction,778,NB pamphlets newly separated out,99.5,273
+mdp.39015033468995,1920,new fiction ed,345,,99.5,273
+mdp.39015033468995,1920,pamphlets,31,,99.5,273
+mdp.39015033468995,1920,new fiction US,861,,99.5,273
+mdp.39015033468995,1920,new foreign fiction US manufacture,232,,99.5,273
+mdp.39015033468995,1920,new foreign fiction import sheets,61,,99.5,273
+mdp.39015033468995,1920,new books,5101,,99.5,273
+mdp.39015033468995,1920,new ed,1086,,99.5,273
+mdp.39015033468995,1920,pamphlets,2235,,99.5,273
+mdp.39015033468995,1920,new books US,6831,,99.5,273
+mdp.39015033468995,1920,new foreign books US manufacture,615,,99.5,273
+mdp.39015033468995,1920,new foreign books import sheets,976,,99.5,273
+mdp.39015033468979,1921,new fiction,683,,101.4,185
+mdp.39015033468979,1921,new fiction ed,277,,101.4,185
+mdp.39015033468979,1921,pamphlets,12,,101.4,185
+mdp.39015033468979,1921,new fiction US,765,,101.4,185
+mdp.39015033468979,1921,new foreign fiction US manufacture,169,,101.4,185
+mdp.39015033468979,1921,new foreign fiction import sheets,38,,101.4,185
+mdp.39015033468979,1921,new books,5438,,101.4,185
+mdp.39015033468979,1921,new ed,1008,,101.4,185
+mdp.39015033468979,1921,pamphlets,1883,,101.4,185
+mdp.39015033468979,1921,new books US,6526,,101.4,185
+mdp.39015033468979,1921,new foreign books US manufacture,451,,101.4,185
+mdp.39015033468979,1921,new foreign books import sheets,1352,,101.4,185
