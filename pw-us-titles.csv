@@ -1,4 +1,4 @@
-source,year,category,note,issue,page
+source,year,category,count,note,issue,page
 pw,1888,new fiction,874,,939,146
 pw,1888,new books,4631,,939,146
 pw,1889,new fiction,942,,939,146
@@ -167,10 +167,10 @@ pw,1907,new UK fiction import sheets,143,,1878,141
 pw,1907,new books US,6517,,1878,141
 pw,1907,new UK books US manufacture,1319,,1878,141
 pw,1907,new UK books import sheets,695,,1878,141
-pw,1908,new fiction,1458,1931,167
-pw,1908,new fiction ed,31,1931,167
-pw,1908,new books,8745,1931,167
-pw,1908,new ed,509,1931,167
+pw,1908,new fiction,1458,,1931,167
+pw,1908,new fiction ed,31,,1931,167
+pw,1908,new books,8745,,1931,167
+pw,1908,new ed,509,,1931,167
 pw,1908,new fiction US,802,,1931,168
 pw,1908,new UK fiction US manufacture,456,,1931,168
 pw,1908,new UK fiction import sheets,231,,1931,168
