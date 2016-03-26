@@ -3,11 +3,11 @@
 
 ## A transcription
 
-Summary information about the book industries of the nineteenth and early twentieth centuries is not particularly easy to find. The national book histories (the *History of the Book in America*, the *Cambridge History of the Book in Britain*) often contain partial tables, but these tables have a frustrating way of being illustrative rather than comprehensive. There is, so far as I can tell, no reference that collects basic facts. Yet these industries did gather their own statistics for their trade journals, and these journals in turn are now readily accessible in big digital libraries.
+Summary information about the book industries of the nineteenth and early twentieth centuries is not particularly easy to find. The national book histories (the *History of the Book in America*, the *Cambridge History of the Book in Britain*) often contain partial tables, but these tables have a frustrating way of being illustrative rather than comprehensive. I have not found a ready reference that collects basic facts. Yet these industries did gather their own statistics for their trade journals, and these journals in turn are now readily accessible in big digital libraries.
 
-I have often wanted such statistics, both in my teaching and my research. Here is a start on making them available.
+I have often wanted such statistics, both in my teaching and my research. Here is a start on making them available. Since IANABH (I am not a book historian), this may duplicate work that has already been done in scholarship I am not aware of. If someone shows up to scold me about that, so much the better: I'll be able to use someone else's more polished work.
 
-# US title production from *Publishers' Weekly*
+# US title production, 1888–1921, from *Publishers' Weekly*
 
 The file `pw-us-titles.csv` contains statistics on title production by US publishers as given in the the annual tabulations in *Publishers' Weekly*, which appear in the last January issue. My particular source has been the scans of the odd-numbered volumes from the University of Michigan found in HathiTrust (Hathi holds two copies of each volume of *PW*, but the scans of the volumes from Harvard are consistently worse in quality, often missing pages or distorted. The Michican scans are imperfect too, but less so).
 
