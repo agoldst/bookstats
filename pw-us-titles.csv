@@ -166,7 +166,7 @@ year,category,subcategory,count,note,issue,page,source
 1907,fiction,imported-sheets UK titles,143,,1878,141,mdp.39015033468094
 1907,total,US-author titles,6517,,1878,141,mdp.39015033468094
 1907,total,US-manufactured UK titles,1319,,1878,141,mdp.39015033468094
-1907,total,imported-sheets UK titles,695,,1878,141,mdp.39015033468094
+1907,total,imported-sheets UK titles,1784,correcting mistaken sum in PW,1878,141,mdp.39015033468094
 1908,fiction,titles,1458,,1931,167,mdp.39015033468078
 1908,fiction,editions,31,,1931,167,mdp.39015033468078
 1908,total,titles,8745,,1931,167,mdp.39015033468078
