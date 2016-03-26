@@ -15,18 +15,23 @@ I was interested in fiction publishing, and so I have started by transcribing th
 
 The transcription is in a CSV format, with one row for each table cell. The columns are
 
-- `source`: the HathiTrust ID of the scanned volume I have used. Prefix `https://babel.hathitrust.org/shcgi/pt?id=` to obtain a URL.
 - `year`: the year of publication in question.
-- `category`: what kinds of titles are counted. These vary over time in *PW*.
+
+- `category`: either `fiction` or `total`, these being the two table rows I have transcribed here.
+
+- `subcategory`: what kinds of titles are counted. These are my own notations, not the exact words used in *PW*. `titles` here means "new titles exclusive of new editions." From 1890 onwards the totals are subdivided in two ways, (1) into titles and editions and (2)  by origin. From 1920 the first subdivision adds `pamphlets`. Within any category, the total of (1) equals the total of (2).
+
 - `count`: the number of titles recorded by *PW*. In principle these correspond to tallies of titles appearing in *PW*'s *Weekly Record* feature in each issue.
+
 - `note`: I have tried to include a few notes on conditions affecting the statistics.
+
 - `issue`: the issue of *PW* from which the number is transcribed. May either be a sequential number or a volume and issue combination, depending on which appears in the running head of the magazine.
+
 - `page`: page number for ditto. *PW* numbering, not PDF file numbering.
 
-I think it is best to consider these statistics as a representation of a *classifying practice* rather than an objective measurement. First, *Publishers Weekly* enacts a division between "Juvenile" and "Fiction"; this division was problematic enough that the British *Publishers Circular* gave up on it in 1896. Second, the judgments about novelty and the distinction between a "new title" and a "new edition" are continually being subject to revision, as the yearly comments on the tables in *PW* attest. Finally, many new publications are not counted either because *PW* does not receive them, or *PW* does not seek out information about them, or *PW* does not consider them worth counting. I am still unsure about when and to what degree dime novels, for example, are counted. Thus, Street & Smith's paperback series are listed when *PW* introduces a separate listing of series in its Annual Summary Number for 1901 (the separate listing is discontinued in 1906, but Street & Smith's titles continue to be included). I do not find entries for S&S's dime novels before 1900 in *PW*'s Weekly Records, though I have not made an exhaustive search.
+- `source`: the HathiTrust ID of the scanned volume I have used. Prefix `https://babel.hathitrust.org/shcgi/pt?id=` to obtain a URL.
 
-The new title counts might be described as an index of the relatively more legitimate publishers' collective investment in new material. What is lacking is (1) some index of their re-investment in old material through reprinting and (2) some index of the degree to which less legitimate publishers follow the same patterns.
-
+It is probably best to consider these statistics as a representation of a *classifying practice* rather than an objective measurement. First, *Publishers Weekly* enacts a division between "Juvenile" and "Fiction"; this division was problematic enough that the British *Publishers Circular* gave up on it in 1896. Second, the judgments about novelty and the distinction between a "new title" and a "new edition" are continually being subject to revision, as the yearly comments on the tables in *PW* attest. Finally, many new publications are not counted either because *PW* does not receive them, or *PW* does not seek out information about them, or *PW* does not consider them worth counting. I am still unsure about when and to what degree dime novels, for example, are counted. Thus, Street & Smith's paperback series are listed when *PW* introduces a separate listing of series in its Annual Summary Number for 1901 (the separate listing is discontinued in 1906, but Street & Smith's titles continue to be included). I do not find entries for S&S's dime novels before 1900 in *PW*'s Weekly Records, though I have not made an exhaustive search.
 
 # Pull requests
 
@@ -45,4 +50,4 @@ I plan to make a similar transcription of the *Publishers' Circular* figures for
 
 # Contributors
 
-Andrew Goldstone (2016)
+Andrew Goldstone (March 2016)
