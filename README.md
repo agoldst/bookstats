@@ -13,17 +13,19 @@ The file `pw-us-titles.csv` contains statistics on title production by US publis
 
 I was interested in fiction publishing, and so I have started by transcribing the yearly numbers for fiction. As a baseline I have also transcribed the overall totals for title production.
 
-The transcription is in a CSV format, with one row for each table cell. The columns are
+The transcription is in a CSV format, with one row for each table cell. The columns are:
 
 - `year`: the year of publication in question.
 
 - `category`: either `fiction` or `total`, these being the two table rows I have transcribed here.
 
-- `subcategory`: what kinds of titles are counted. These are my own notations, not the exact words used in *PW*. `titles` here means "new titles exclusive of new editions." From 1890 onwards the totals are subdivided in two ways, (1) into titles and editions and (2)  by origin. From 1920 the first subdivision adds `pamphlets`. Within any category, the total of (1) equals the total of (2).
+- `by_origin`: In most years the totals are subdivided in two ways, (1) into titles and editions and (2) by origin. This column reads `F` if the entry falls under the former, `T` if the latter. The division is not stable in the years I've transcribed. It is missing in 1898–99, introduced in 1890, dropped again in 1891–92, and reintroduced in 1893. In 1911 the divisions are slightly renamed. In 1920–21 the first subdivision adds `pamphlets`. Within any category, the total of (1) equals the total of (2).
+
+- `subcategory`: what kinds of titles are counted. These are my own notations, not the exact words used in *PW*, which nonetheless vary interestingly. `titles` here means "new titles exclusive of new editions." Under the distinctions by origin, `US manufactured` refers to foreign-authored texts (by *PW*'s reckoning) manufactured in the U.S. `imported` initially refers to books printed from sheets imported from England (1893), then includes bound imports from England (1894) and later expands to include all foreign imports (1911).
 
 - `count`: the number of titles recorded by *PW*. In principle these correspond to tallies of titles appearing in *PW*'s *Weekly Record* feature in each issue.
 
-- `note`: I have tried to include a few notes on conditions affecting the statistics.
+- `note`: I have included a few notes on conditions affecting the statistics, drawing on remarks make in the discussions that accompany the tables in *PW*.
 
 - `issue`: the issue of *PW* from which the number is transcribed. May either be a sequential number or a volume and issue combination, depending on which appears in the running head of the magazine.
 

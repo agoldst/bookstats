@@ -1,313 +1,313 @@
-year,category,subcategory,count,note,issue,page,source
-1888,fiction,titles,874,,939,146,mdp.39015033511257
-1888,total,titles,4631,,939,146,mdp.39015033511257
-1889,fiction,titles,942,,939,146,mdp.39015033511257
-1889,total,titles,4014,,939,146,mdp.39015033511257
-1890,fiction,US-author titles,935,NB special new-ed breakout,991,146,mdp.39015012108448
-1890,fiction,US-author editions,105,NB special new-ed breakout,991,146,mdp.39015012108448
-1890,total,US-author titles,3180,NB special new-ed breakout,991,146,mdp.39015012108448
-1890,total,US-author editions,353,NB special new-ed breakout,991,146,mdp.39015012108448
-1890,fiction,imported titles,57,NB special new-ed breakout,991,146,mdp.39015012108448
-1890,fiction,imported editions,31,NB special new-ed breakout,991,146,mdp.39015012108448
-1890,total,imported titles,933,NB special new-ed breakout,991,146,mdp.39015012108448
-1890,total,imported editions,93,NB special new-ed breakout,991,146,mdp.39015012108448
-1891,fiction,titles,1105,no new-ed or import breakout,1044,187,mdp.39015033511281
-1891,total,titles,4665,no new-ed or import breakout,1044,187,mdp.39015033511281
-1892,fiction,titles,735,copyright means fewer rpts,1096,170,mdp.39015033511307
-1892,fiction,editions,367,,1096,170,mdp.39015033511307
-1892,total,titles,4074,,1096,170,mdp.39015033511307
-1892,total,editions,788,,1096,170,mdp.39015033511307
-1893,fiction,titles,772,,1148,165,mdp.39015033511323
-1893,fiction,editions,360,,1148,165,mdp.39015033511323
-1893,total,titles,4281,includes UK imports,1148,165,mdp.39015033511323
-1893,total,editions,853,includes UK imports,1148,165,mdp.39015033511323
-1893,fiction,US-author titles,263,,1148,165,mdp.39015033511323
-1893,fiction,US-manufactured UK titles,834,,1148,165,mdp.39015033511323
-1893,fiction,imported-sheets UK titles,35,,1148,165,mdp.39015033511323
-1893,total,US-author titles,2803,,1148,165,mdp.39015033511323
-1893,total,US-manufactured UK titles,1180,,1148,165,mdp.39015033511323
-1893,total,imported-sheets UK titles,1151,,1148,165,mdp.39015033511323
-1894,fiction,titles,573,,1200,171,mdp.39015033511349
-1894,fiction,editions,156,,1200,171,mdp.39015033511349
-1894,total,titles,3837,,1200,171,mdp.39015033511349
-1894,total,editions,647,,1200,171,mdp.39015033511349
-1894,fiction,US-author titles,370,,1200,171,mdp.39015033511349
-1894,fiction,US-manufactured UK titles,297,,1200,171,mdp.39015033511349
-1894,fiction,imported-sheets UK titles,62,,1200,171,mdp.39015033511349
-1894,total,US-author titles,2821,,1200,171,mdp.39015033511349
-1894,total,US-manufactured UK titles,577,,1200,171,mdp.39015033511349
-1894,total,imported-sheets UK titles,1086,,1200,171,mdp.39015033511349
-1895,fiction,titles,1050,,1252,177,mdp.39015033511364
-1895,fiction,editions,64,,1252,177,mdp.39015033511364
-1895,total,titles,5101,,1252,177,mdp.39015033511364
-1895,total,editions,368,,1252,177,mdp.39015033511364
-1895,fiction,US-author titles,287,,1252,177,mdp.39015033511364
-1895,fiction,US-manufactured UK titles,589,,1252,177,mdp.39015033511364
-1895,fiction,imported-sheets UK titles,238,,1252,177,mdp.39015033511364
-1895,total,US-author titles,3396,,1252,177,mdp.39015033511364
-1895,total,US-manufactured UK titles,847,,1252,177,mdp.39015033511364
-1895,total,imported-sheets UK titles,1226,,1252,177,mdp.39015033511364
-1896,fiction,titles,1012,,1305,211,mdp.39015033511380
-1896,fiction,editions,102,,1305,211,mdp.39015033511380
-1896,total,titles,5189,,1305,211,mdp.39015033511380
-1896,total,editions,514,,1305,211,mdp.39015033511380
-1896,fiction,US-author titles,270,,1305,212,mdp.39015033511380
-1896,fiction,US-manufactured UK titles,690,,1305,212,mdp.39015033511380
-1896,fiction,imported-sheets UK titles,154,,1305,212,mdp.39015033511380
-1896,total,US-author titles,3300,,1305,212,mdp.39015033511380
-1896,total,US-manufactured UK titles,1261,,1305,212,mdp.39015033511380
-1896,total,imported-sheets UK titles,1142,,1305,212,mdp.39015033511380
-1897,fiction,titles,713,,1357,217,mdp.39015033511406
-1897,fiction,editions,156,,1357,217,mdp.39015033511406
-1897,total,titles,4171,,1357,217,mdp.39015033511406
-1897,total,editions,757,,1357,217,mdp.39015033511406
-1897,fiction,US-author titles,358,,1357,217,mdp.39015033511406
-1897,fiction,US-manufactured UK titles,352,,1357,217,mdp.39015033511406
-1897,fiction,imported-sheets UK titles,159,,1357,217,mdp.39015033511406
-1897,total,US-author titles,3318,,1357,217,mdp.39015033511406
-1897,total,US-manufactured UK titles,495,,1357,217,mdp.39015033511406
-1897,total,imported-sheets UK titles,1115,,1357,217,mdp.39015033511406
-1898,fiction,titles,724,,1409,170,mdp.39015033511422
-1898,fiction,editions,181,,1409,170,mdp.39015033511422
-1898,total,titles,4332,,1409,170,mdp.39015033511422
-1898,total,editions,554,,1409,170,mdp.39015033511422
-1898,fiction,US-author titles,358,,1409,170,mdp.39015033511422
-1898,fiction,US-manufactured UK titles,391,,1409,170,mdp.39015033511422
-1898,fiction,imported-sheets UK titles,156,,1409,170,mdp.39015033511422
-1898,total,US-author titles,2908,,1409,170,mdp.39015033511422
-1898,total,US-manufactured UK titles,834,,1409,170,mdp.39015033511422
-1898,total,imported-sheets UK titles,1144,,1409,170,mdp.39015033511422
-1899,fiction,titles,749,,1461,192,mdp.39015033511448
-1899,fiction,editions,183,,1461,192,mdp.39015033511448
-1899,total,titles,4749,,1461,192,mdp.39015033511448
-1899,total,editions,572,,1461,192,mdp.39015033511448
-1899,fiction,US-author titles,457,,1461,193,mdp.39015033511448
-1899,fiction,US-manufactured UK titles,354,,1461,193,mdp.39015033511448
-1899,fiction,imported-sheets UK titles,121,,1461,193,mdp.39015033511448
-1899,total,US-author titles,3626,,1461,193,mdp.39015033511448
-1899,total,US-manufactured UK titles,571,,1461,193,mdp.39015033511448
-1899,total,imported-sheets UK titles,1124,,1461,193,mdp.39015033511448
-1900,fiction,titles,616,,1513,80,mdp.39015033511463
-1900,fiction,editions,662,,1513,80,mdp.39015033511463
-1900,total,titles,4490,,1513,80,mdp.39015033511463
-1900,total,editions,1866,,1513,80,mdp.39015033511463
-1900,fiction,US-author titles,659,,1513,80,mdp.39015033511463
-1900,fiction,US-manufactured UK titles,453,,1513,80,mdp.39015033511463
-1900,fiction,imported-sheets UK titles,166,,1513,80,mdp.39015033511463
-1900,total,US-author titles,3878,,1513,80,mdp.39015033511463
-1900,total,US-manufactured UK titles,1388,,1513,80,mdp.39015033511463
-1900,total,imported-sheets UK titles,1090,,1513,80,mdp.39015033511463
-1901,fiction,titles,914,,1565,84,mdp.39015033511489
-1901,fiction,editions,1320,,1565,84,mdp.39015033511489
-1901,total,titles,5496,,1565,84,mdp.39015033511489
-1901,total,editions,2645,,1565,84,mdp.39015033511489
-1901,fiction,US-author titles,981,,1565,84,mdp.39015033511489
-1901,fiction,US-manufactured UK titles,1028,,1565,84,mdp.39015033511489
-1901,fiction,imported-sheets UK titles,225,,1565,84,mdp.39015033511489
-1901,total,US-author titles,4701,,1565,84,mdp.39015033511489
-1901,total,US-manufactured UK titles,2122,,1565,84,mdp.39015033511489
-1901,total,imported-sheets UK titles,1318,,1565,84,mdp.39015033511489
-1902,fiction,titles,838,,1618,141,mdp.39015033468185
-1902,fiction,editions,959,,1618,141,mdp.39015033468185
-1902,total,titles,5485,,1618,141,mdp.39015033468185
-1902,total,editions,2348,,1618,141,mdp.39015033468185
-1902,fiction,US-author titles,903,,1618,141,mdp.39015033468185
-1902,fiction,US-manufactured UK titles,818,,1618,141,mdp.39015033468185
-1902,fiction,imported-sheets UK titles,76,,1618,141,mdp.39015033468185
-1902,total,US-author titles,5210,,1618,141,mdp.39015033468185
-1902,total,US-manufactured UK titles,1578,,1618,141,mdp.39015033468185
-1902,total,imported-sheets UK titles,1045,,1618,141,mdp.39015033468185
-1903,fiction,titles,816,,1670,146,mdp.39015033468177
-1903,fiction,editions,644,,1670,146,mdp.39015033468177
-1903,total,titles,5793,,1670,146,mdp.39015033468177
-1903,total,editions,2072,,1670,146,mdp.39015033468177
-1903,fiction,US-author titles,977,,1670,147,mdp.39015033468177
-1903,fiction,US-manufactured UK titles,396,,1670,147,mdp.39015033468177
-1903,fiction,imported-sheets UK titles,87,,1670,147,mdp.39015033468177
-1903,total,US-author titles,5621,,1670,147,mdp.39015033468177
-1903,total,US-manufactured UK titles,1356,,1670,147,mdp.39015033468177
-1903,total,imported-sheets UK titles,888,,1670,147,mdp.39015033468177
-1904,fiction,titles,1007,,1722,105,mdp.39015033468151
-1904,fiction,editions,814,,1722,105,mdp.39015033468151
-1904,total,titles,6971,,1722,105,mdp.39015033468151
-1904,total,editions,1320,,1722,105,mdp.39015033468151
-1904,fiction,US-author titles,1262,,1722,106,mdp.39015033468151
-1904,fiction,US-manufactured UK titles,491,,1722,106,mdp.39015033468151
-1904,fiction,imported-sheets UK titles,68,,1722,106,mdp.39015033468151
-1904,total,US-author titles,5978,,1722,106,mdp.39015033468151
-1904,total,US-manufactured UK titles,1288,,1722,106,mdp.39015033468151
-1904,total,imported-sheets UK titles,1025,,1722,106,mdp.39015033468151
-1905,fiction,titles,1008,,1774,125,mdp.39015033468136
-1905,fiction,editions,356,,1774,125,mdp.39015033468136
-1905,total,titles,7514,cheap series newly omitted,1774,125,mdp.39015033468136
-1905,total,editions,598,,1774,125,mdp.39015033468136
-1905,fiction,US-author titles,992,,1774,126,mdp.39015033468136
-1905,fiction,US-manufactured UK titles,314,,1774,126,mdp.39015033468136
-1905,fiction,imported-sheets UK titles,58,,1774,126,mdp.39015033468136
-1905,total,US-author titles,5719,,1774,126,mdp.39015033468136
-1905,total,US-manufactured UK titles,1426,,1774,126,mdp.39015033468136
-1905,total,imported-sheets UK titles,967,,1774,126,mdp.39015033468136
-1906,fiction,titles,1075,,1826,143,mdp.39015033468110
-1906,fiction,editions,96,,1826,143,mdp.39015033468110
-1906,total,titles,6724,,1826,143,mdp.39015033468110
-1906,total,editions,415,,1826,143,mdp.39015033468110
-1906,fiction,US-author titles,753,,1826,144,mdp.39015033468110
-1906,fiction,US-manufactured UK titles,295,,1826,144,mdp.39015033468110
-1906,fiction,imported-sheets UK titles,123,,1826,144,mdp.39015033468110
-1906,total,US-author titles,5093,,1826,144,mdp.39015033468110
-1906,total,US-manufactured UK titles,1072,,1826,144,mdp.39015033468110
-1906,total,imported-sheets UK titles,974,,1826,144,mdp.39015033468110
-1907,fiction,titles,1150,,1878,141,mdp.39015033468094
-1907,fiction,editions,21,,1878,141,mdp.39015033468094
-1907,total,titles,8925,,1878,141,mdp.39015033468094
-1907,total,editions,695,,1878,141,mdp.39015033468094
-1907,fiction,US-author titles,675,,1878,141,mdp.39015033468094
-1907,fiction,US-manufactured UK titles,353,,1878,141,mdp.39015033468094
-1907,fiction,imported-sheets UK titles,143,,1878,141,mdp.39015033468094
-1907,total,US-author titles,6517,,1878,141,mdp.39015033468094
-1907,total,US-manufactured UK titles,1319,,1878,141,mdp.39015033468094
-1907,total,imported-sheets UK titles,1784,correcting mistaken sum in PW,1878,141,mdp.39015033468094
-1908,fiction,titles,1458,,1931,167,mdp.39015033468078
-1908,fiction,editions,31,,1931,167,mdp.39015033468078
-1908,total,titles,8745,,1931,167,mdp.39015033468078
-1908,total,editions,509,,1931,167,mdp.39015033468078
-1908,fiction,US-author titles,802,,1931,168,mdp.39015033468078
-1908,fiction,US-manufactured UK titles,456,,1931,168,mdp.39015033468078
-1908,fiction,imported-sheets UK titles,231,,1931,168,mdp.39015033468078
-1908,total,US-author titles,6349,,1931,168,mdp.39015033468078
-1908,total,US-manufactured UK titles,1145,,1931,168,mdp.39015033468078
-1908,total,imported-sheets UK titles,1760,,1931,168,mdp.39015033468078
-1909,fiction,titles,1087,,1983,171,mdp.39015033468052
-1909,fiction,editions,11,,1983,171,mdp.39015033468052
-1909,total,titles,10193,,1983,171,mdp.39015033468052
-1909,total,editions,708,,1983,171,mdp.39015033468052
-1909,fiction,US-author titles,806,,1983,171,mdp.39015033468052
-1909,fiction,US-manufactured UK titles,139,,1983,171,mdp.39015033468052
-1909,fiction,imported-sheets UK titles,153,,1983,171,mdp.39015033468052
-1909,total,US-author titles,8308,,1983,171,mdp.39015033468052
-1909,total,US-manufactured UK titles,828,,1983,171,mdp.39015033468052
-1909,total,imported-sheets UK titles,1765,,1983,171,mdp.39015033468052
-1910,fiction,titles,1303,,2034,112,mdp.39015033468037
-1910,fiction,editions,236,,2034,112,mdp.39015033468037
-1910,total,titles,11671,,2034,112,mdp.39015033468037
-1910,total,editions,1799,,2034,112,mdp.39015033468037
-1910,fiction,US-author titles,815,,2034,113,mdp.39015033468037
-1910,fiction,US-manufactured UK titles,524,,2034,113,mdp.39015033468037
-1910,fiction,imported-sheets UK titles,200,,2034,113,mdp.39015033468037
-1910,total,US-author titles,9209,,2034,113,mdp.39015033468037
-1910,total,US-manufactured UK titles,1215,,2034,113,mdp.39015033468037
-1910,total,imported-sheets UK titles,3046,,2034,113,mdp.39015033468037
-1911,fiction,titles,999,NB intl classification newly adopted,2086,278,mdp.39015033468011
-1911,fiction,editions,25,NB intl classification newly adopted,2086,278,mdp.39015033468011
-1911,fiction,US-author titles,701,NB intl classification newly adopted,2086,278,mdp.39015033468011
-1911,fiction,US-manufactured foreign titles,121,NB intl classification newly adopted,2086,278,mdp.39015033468011
-1911,fiction,imported-sheets foreign titles,202,NB intl classification newly adopted,2086,278,mdp.39015033468011
-1911,total,titles,10440,NB intl classification newly adopted,2086,278,mdp.39015033468011
-1911,total,editions,783,NB intl classification newly adopted,2086,278,mdp.39015033468011
-1911,total,US-author titles,8183,NB intl classification newly adopted,2086,278,mdp.39015033468011
-1911,total,US-manufactured foreign titles,771,NB intl classification newly adopted,2086,278,mdp.39015033468011
-1911,total,imported-sheets foreign titles,2269,NB intl classification newly adopted,2086,278,mdp.39015033468011
-1912,fiction,titles,960,,2138,254,mdp.39015033469050
-1912,fiction,editions,50,,2138,254,mdp.39015033469050
-1912,fiction,US-author titles,712,,2138,254,mdp.39015033469050
-1912,fiction,US-manufactured foreign titles,110,,2138,254,mdp.39015033469050
-1912,fiction,imported-sheets foreign titles,188,,2138,254,mdp.39015033469050
-1912,total,titles,10135,,2138,254,mdp.39015033469050
-1912,total,editions,768,,2138,254,mdp.39015033469050
-1912,total,US-author titles,7975,,2138,254,mdp.39015033469050
-1912,total,US-manufactured foreign titles,504,,2138,254,mdp.39015033469050
-1912,total,imported-sheets foreign titles,2424,,2138,254,mdp.39015033469050
-1913,fiction,titles,943,NB changed edition classification,2910,273,mdp.39015033469035
-1913,fiction,editions,213,NB changed edition classification,2910,273,mdp.39015033469035
-1913,fiction,US-author titles,790,NB changed edition classification,2910,273,mdp.39015033469035
-1913,fiction,US-manufactured foreign titles,164,NB changed edition classification,2910,273,mdp.39015033469035
-1913,fiction,imported-sheets foreign titles,202,NB changed edition classification,2910,273,mdp.39015033469035
-1913,total,titles,10607,NB changed edition classification,2910,273,mdp.39015033469035
-1913,total,editions,1623,NB changed edition classification,2910,273,mdp.39015033469035
-1913,total,US-author titles,9085,NB changed edition classification,2910,273,mdp.39015033469035
-1913,total,US-manufactured foreign titles,677,NB changed edition classification,2910,273,mdp.39015033469035
-1913,total,imported-sheets foreign titles,2468,NB changed edition classification,2910,273,mdp.39015033469035
-1914,fiction,titles,832,,2242,226,mdp.39015033469019
-1914,fiction,editions,221,,2242,226,mdp.39015033469019
-1914,fiction,US-author titles,689,,2242,226,mdp.39015033469019
-1914,fiction,US-manufactured foreign titles,118,,2242,226,mdp.39015033469019
-1914,fiction,imported-sheets foreign titles,246,,2242,226,mdp.39015033469019
-1914,total,titles,10175,,2242,226,mdp.39015033469019
-1914,total,editions,1835,,2242,226,mdp.39015033469019
-1914,total,US-author titles,8563,,2242,226,mdp.39015033469019
-1914,total,US-manufactured foreign titles,595,,2242,226,mdp.39015033469019
-1914,total,imported-sheets foreign titles,2852,,2242,226,mdp.39015033469019
-1915,fiction,titles,728,,2294,249,mdp.39015033468755
-1915,fiction,editions,191,,2294,249,mdp.39015033468755
-1915,fiction,US-author titles,643,,2294,249,mdp.39015033468755
-1915,fiction,US-manufactured foreign titles,80,,2294,249,mdp.39015033468755
-1915,fiction,imported-sheets foreign titles,196,,2294,249,mdp.39015033468755
-1915,total,titles,8349,,2294,249,mdp.39015033468755
-1915,total,editions,1385,,2294,249,mdp.39015033468755
-1915,total,US-author titles,6932,,2294,249,mdp.39015033468755
-1915,total,US-manufactured foreign titles,464,,2294,249,mdp.39015033468755
-1915,total,imported-sheets foreign titles,2338,,2294,249,mdp.39015033468755
-1916,fiction,titles,736,,2347,257,mdp.39015033468771
-1916,fiction,editions,196,,2347,257,mdp.39015033468771
-1916,fiction,US-author titles,703,,2347,257,mdp.39015033468771
-1916,fiction,US-manufactured foreign titles,79,,2347,257,mdp.39015033468771
-1916,fiction,imported-sheets foreign titles,150,,2347,257,mdp.39015033468771
-1916,total,titles,9160,,2347,257,mdp.39015033468771
-1916,total,editions,1285,,2347,257,mdp.39015033468771
-1916,total,US-author titles,8430,,2347,257,mdp.39015033468771
-1916,total,US-manufactured foreign titles,367,,2347,257,mdp.39015033468771
-1916,total,imported-sheets foreign titles,1648,,2347,257,mdp.39015033468771
-1917,fiction,titles,677,,2399,247,mdp.39015033468797
-1917,fiction,editions,245,,2399,247,mdp.39015033468797
-1917,fiction,US-author titles,632,,2399,247,mdp.39015033468797
-1917,fiction,US-manufactured foreign titles,156,,2399,247,mdp.39015033468797
-1917,fiction,imported-sheets foreign titles,134,,2399,247,mdp.39015033468797
-1917,total,titles,8849,,2399,247,mdp.39015033468797
-1917,total,editions,1211,,2399,247,mdp.39015033468797
-1917,total,US-author titles,8107,,2399,247,mdp.39015033468797
-1917,total,US-manufactured foreign titles,629,,2399,247,mdp.39015033468797
-1917,total,imported-sheets foreign titles,1324,,2399,247,mdp.39015033468797
-1918,fiction,titles,620,,95.4,228,mdp.39015033468813
-1918,fiction,editions,168,,95.4,228,mdp.39015033468813
-1918,fiction,US-author titles,594,,95.4,228,mdp.39015033468813
-1918,fiction,US-manufactured foreign titles,157,,95.4,228,mdp.39015033468813
-1918,fiction,imported-sheets foreign titles,37,,95.4,228,mdp.39015033468813
-1918,total,titles,8085,,95.4,228,mdp.39015033468813
-1918,total,editions,1152,,95.4,228,mdp.39015033468813
-1918,total,US-author titles,7686,,95.4,228,mdp.39015033468813
-1918,total,US-manufactured foreign titles,648,,95.4,228,mdp.39015033468813
-1918,total,imported-sheets foreign titles,903,,95.4,228,mdp.39015033468813
-1919,fiction,titles,671,,97.5,284,mdp.39015033468839
-1919,fiction,editions,233,,97.5,284,mdp.39015033468839
-1919,fiction,US-author titles,661,,97.5,284,mdp.39015033468839
-1919,fiction,US-manufactured foreign titles,208,,97.5,284,mdp.39015033468839
-1919,fiction,imported-sheets foreign titles,35,,97.5,284,mdp.39015033468839
-1919,total,titles,7625,,97.5,284,mdp.39015033468839
-1919,total,editions,969,,97.5,284,mdp.39015033468839
-1919,total,US-author titles,7179,,97.5,284,mdp.39015033468839
-1919,total,US-manufactured foreign titles,607,,97.5,284,mdp.39015033468839
-1919,total,imported-sheets foreign titles,808,,97.5,284,mdp.39015033468839
-1920,fiction,titles,778,NB pamphlets newly separated out,99.5,273,mdp.39015033468995
-1920,fiction,editions,345,,99.5,273,mdp.39015033468995
-1920,fiction,pamphlets,31,,99.5,273,mdp.39015033468995
-1920,fiction,US-author titles,861,,99.5,273,mdp.39015033468995
-1920,fiction,US-manufactured foreign titles,232,,99.5,273,mdp.39015033468995
-1920,fiction,imported-sheets foreign titles,61,,99.5,273,mdp.39015033468995
-1920,total,titles,5101,,99.5,273,mdp.39015033468995
-1920,total,editions,1086,,99.5,273,mdp.39015033468995
-1920,total,pamphlets,2235,,99.5,273,mdp.39015033468995
-1920,total,US-author titles,6831,,99.5,273,mdp.39015033468995
-1920,total,US-manufactured foreign titles,615,,99.5,273,mdp.39015033468995
-1920,total,imported-sheets foreign titles,976,,99.5,273,mdp.39015033468995
-1921,fiction,titles,683,,101.4,185,mdp.39015033468979
-1921,fiction,editions,277,,101.4,185,mdp.39015033468979
-1921,fiction,pamphlets,12,,101.4,185,mdp.39015033468979
-1921,fiction,US-author titles,765,,101.4,185,mdp.39015033468979
-1921,fiction,US-manufactured foreign titles,169,,101.4,185,mdp.39015033468979
-1921,fiction,imported-sheets foreign titles,38,,101.4,185,mdp.39015033468979
-1921,total,titles,5438,,101.4,185,mdp.39015033468979
-1921,total,editions,1008,,101.4,185,mdp.39015033468979
-1921,total,pamphlets,1883,,101.4,185,mdp.39015033468979
-1921,total,US-author titles,6526,,101.4,185,mdp.39015033468979
-1921,total,US-manufactured foreign titles,451,,101.4,185,mdp.39015033468979
-1921,total,imported-sheets foreign titles,1352,,101.4,185,mdp.39015033468979
+year,category,by_origin,subcategory,count,note,issue,page,source
+1888,fiction,F,titles,874,,939,146,mdp.39015033511257
+1888,total,F,titles,4631,,939,146,mdp.39015033511257
+1889,fiction,F,titles,942,,939,146,mdp.39015033511257
+1889,total,F,titles,4014,,939,146,mdp.39015033511257
+1890,fiction,T,US authored,935,NB special new-ed breakout,991,146,mdp.39015012108448
+1890,fiction,T,US-author editions,105,NB special new-ed breakout,991,146,mdp.39015012108448
+1890,total,T,US authored,3180,NB special new-ed breakout,991,146,mdp.39015012108448
+1890,total,T,US-author editions,353,NB special new-ed breakout,991,146,mdp.39015012108448
+1890,fiction,T,imported titles,57,NB special new-ed breakout,991,146,mdp.39015012108448
+1890,fiction,T,imported editions,31,NB special new-ed breakout,991,146,mdp.39015012108448
+1890,total,T,imported titles,933,NB special new-ed breakout,991,146,mdp.39015012108448
+1890,total,T,imported editions,93,NB special new-ed breakout,991,146,mdp.39015012108448
+1891,fiction,F,titles,1105,no new-ed or import breakout,1044,187,mdp.39015033511281
+1891,total,F,titles,4665,no new-ed or import breakout,1044,187,mdp.39015033511281
+1892,fiction,F,titles,735,copyright means fewer rpts,1096,170,mdp.39015033511307
+1892,fiction,F,editions,367,,1096,170,mdp.39015033511307
+1892,total,F,titles,4074,,1096,170,mdp.39015033511307
+1892,total,F,editions,788,,1096,170,mdp.39015033511307
+1893,fiction,F,titles,772,,1148,165,mdp.39015033511323
+1893,fiction,F,editions,360,,1148,165,mdp.39015033511323
+1893,total,F,titles,4281,,1148,165,mdp.39015033511323
+1893,total,F,editions,853,,1148,165,mdp.39015033511323
+1893,fiction,T,US authored,263,,1148,165,mdp.39015033511323
+1893,fiction,T,US manufactured,834,by English and other foreign authors,1148,165,mdp.39015033511323
+1893,fiction,T,imported,35,by English authors in sheets,1148,165,mdp.39015033511323
+1893,total,T,US authored,2803,,1148,165,mdp.39015033511323
+1893,total,T,US manufactured,1180,by English and other foreign authors,1148,165,mdp.39015033511323
+1893,total,T,imported,1151,by English authors in sheets,1148,165,mdp.39015033511323
+1894,fiction,F,titles,573,,1200,171,mdp.39015033511349
+1894,fiction,F,editions,156,,1200,171,mdp.39015033511349
+1894,total,F,titles,3837,,1200,171,mdp.39015033511349
+1894,total,F,editions,647,,1200,171,mdp.39015033511349
+1894,fiction,T,US authored,370,,1200,171,mdp.39015033511349
+1894,fiction,T,US manufactured,297,,1200,171,mdp.39015033511349
+1894,fiction,T,imported,62,by English authors in sheets or bound,1200,171,mdp.39015033511349
+1894,total,T,US authored,2821,,1200,171,mdp.39015033511349
+1894,total,T,US manufactured,577,,1200,171,mdp.39015033511349
+1894,total,T,imported,1086,by English authors in sheets or bound,1200,171,mdp.39015033511349
+1895,fiction,F,titles,1050,,1252,177,mdp.39015033511364
+1895,fiction,F,editions,64,,1252,177,mdp.39015033511364
+1895,total,F,titles,5101,,1252,177,mdp.39015033511364
+1895,total,F,editions,368,,1252,177,mdp.39015033511364
+1895,fiction,T,US authored,287,,1252,177,mdp.39015033511364
+1895,fiction,T,US manufactured,589,,1252,177,mdp.39015033511364
+1895,fiction,T,imported,238,,1252,177,mdp.39015033511364
+1895,total,T,US authored,3396,,1252,177,mdp.39015033511364
+1895,total,T,US manufactured,847,,1252,177,mdp.39015033511364
+1895,total,T,imported,1226,,1252,177,mdp.39015033511364
+1896,fiction,F,titles,1012,,1305,211,mdp.39015033511380
+1896,fiction,F,editions,102,,1305,211,mdp.39015033511380
+1896,total,F,titles,5189,,1305,211,mdp.39015033511380
+1896,total,F,editions,514,,1305,211,mdp.39015033511380
+1896,fiction,T,US authored,270,,1305,212,mdp.39015033511380
+1896,fiction,T,US manufactured,690,,1305,212,mdp.39015033511380
+1896,fiction,T,imported,154,,1305,212,mdp.39015033511380
+1896,total,T,US authored,3300,,1305,212,mdp.39015033511380
+1896,total,T,US manufactured,1261,,1305,212,mdp.39015033511380
+1896,total,T,imported,1142,,1305,212,mdp.39015033511380
+1897,fiction,F,titles,713,,1357,217,mdp.39015033511406
+1897,fiction,F,editions,156,,1357,217,mdp.39015033511406
+1897,total,F,titles,4171,,1357,217,mdp.39015033511406
+1897,total,F,editions,757,,1357,217,mdp.39015033511406
+1897,fiction,T,US authored,358,,1357,217,mdp.39015033511406
+1897,fiction,T,US manufactured,352,,1357,217,mdp.39015033511406
+1897,fiction,T,imported,159,,1357,217,mdp.39015033511406
+1897,total,T,US authored,3318,,1357,217,mdp.39015033511406
+1897,total,T,US manufactured,495,,1357,217,mdp.39015033511406
+1897,total,T,imported,1115,,1357,217,mdp.39015033511406
+1898,fiction,F,titles,724,,1409,170,mdp.39015033511422
+1898,fiction,F,editions,181,,1409,170,mdp.39015033511422
+1898,total,F,titles,4332,,1409,170,mdp.39015033511422
+1898,total,F,editions,554,,1409,170,mdp.39015033511422
+1898,fiction,T,US authored,358,,1409,170,mdp.39015033511422
+1898,fiction,T,US manufactured,391,,1409,170,mdp.39015033511422
+1898,fiction,T,imported,156,,1409,170,mdp.39015033511422
+1898,total,T,US authored,2908,,1409,170,mdp.39015033511422
+1898,total,T,US manufactured,834,,1409,170,mdp.39015033511422
+1898,total,T,imported,1144,,1409,170,mdp.39015033511422
+1899,fiction,F,titles,749,,1461,192,mdp.39015033511448
+1899,fiction,F,editions,183,,1461,192,mdp.39015033511448
+1899,total,F,titles,4749,,1461,192,mdp.39015033511448
+1899,total,F,editions,572,,1461,192,mdp.39015033511448
+1899,fiction,T,US authored,457,,1461,193,mdp.39015033511448
+1899,fiction,T,US manufactured,354,,1461,193,mdp.39015033511448
+1899,fiction,T,imported,121,,1461,193,mdp.39015033511448
+1899,total,T,US authored,3626,,1461,193,mdp.39015033511448
+1899,total,T,US manufactured,571,,1461,193,mdp.39015033511448
+1899,total,T,imported,1124,,1461,193,mdp.39015033511448
+1900,fiction,F,titles,616,,1513,80,mdp.39015033511463
+1900,fiction,F,editions,662,,1513,80,mdp.39015033511463
+1900,total,F,titles,4490,,1513,80,mdp.39015033511463
+1900,total,F,editions,1866,,1513,80,mdp.39015033511463
+1900,fiction,T,US authored,659,,1513,80,mdp.39015033511463
+1900,fiction,T,US manufactured,453,,1513,80,mdp.39015033511463
+1900,fiction,T,imported,166,,1513,80,mdp.39015033511463
+1900,total,T,US authored,3878,,1513,80,mdp.39015033511463
+1900,total,T,US manufactured,1388,,1513,80,mdp.39015033511463
+1900,total,T,imported,1090,,1513,80,mdp.39015033511463
+1901,fiction,F,titles,914,,1565,84,mdp.39015033511489
+1901,fiction,F,editions,1320,,1565,84,mdp.39015033511489
+1901,total,F,titles,5496,,1565,84,mdp.39015033511489
+1901,total,F,editions,2645,,1565,84,mdp.39015033511489
+1901,fiction,T,US authored,981,,1565,84,mdp.39015033511489
+1901,fiction,T,US manufactured,1028,,1565,84,mdp.39015033511489
+1901,fiction,T,imported,225,,1565,84,mdp.39015033511489
+1901,total,T,US authored,4701,,1565,84,mdp.39015033511489
+1901,total,T,US manufactured,2122,,1565,84,mdp.39015033511489
+1901,total,T,imported,1318,,1565,84,mdp.39015033511489
+1902,fiction,F,titles,838,,1618,141,mdp.39015033468185
+1902,fiction,F,editions,959,,1618,141,mdp.39015033468185
+1902,total,F,titles,5485,,1618,141,mdp.39015033468185
+1902,total,F,editions,2348,,1618,141,mdp.39015033468185
+1902,fiction,T,US authored,903,,1618,141,mdp.39015033468185
+1902,fiction,T,US manufactured,818,,1618,141,mdp.39015033468185
+1902,fiction,T,imported,76,,1618,141,mdp.39015033468185
+1902,total,T,US authored,5210,,1618,141,mdp.39015033468185
+1902,total,T,US manufactured,1578,,1618,141,mdp.39015033468185
+1902,total,T,imported,1045,,1618,141,mdp.39015033468185
+1903,fiction,F,titles,816,,1670,146,mdp.39015033468177
+1903,fiction,F,editions,644,,1670,146,mdp.39015033468177
+1903,total,F,titles,5793,,1670,146,mdp.39015033468177
+1903,total,F,editions,2072,,1670,146,mdp.39015033468177
+1903,fiction,T,US authored,977,,1670,147,mdp.39015033468177
+1903,fiction,T,US manufactured,396,,1670,147,mdp.39015033468177
+1903,fiction,T,imported,87,,1670,147,mdp.39015033468177
+1903,total,T,US authored,5621,,1670,147,mdp.39015033468177
+1903,total,T,US manufactured,1356,,1670,147,mdp.39015033468177
+1903,total,T,imported,888,,1670,147,mdp.39015033468177
+1904,fiction,F,titles,1007,,1722,105,mdp.39015033468151
+1904,fiction,F,editions,814,,1722,105,mdp.39015033468151
+1904,total,F,titles,6971,,1722,105,mdp.39015033468151
+1904,total,F,editions,1320,,1722,105,mdp.39015033468151
+1904,fiction,T,US authored,1262,,1722,106,mdp.39015033468151
+1904,fiction,T,US manufactured,491,,1722,106,mdp.39015033468151
+1904,fiction,T,imported,68,,1722,106,mdp.39015033468151
+1904,total,T,US authored,5978,,1722,106,mdp.39015033468151
+1904,total,T,US manufactured,1288,,1722,106,mdp.39015033468151
+1904,total,T,imported,1025,,1722,106,mdp.39015033468151
+1905,fiction,F,titles,1008,,1774,125,mdp.39015033468136
+1905,fiction,F,editions,356,,1774,125,mdp.39015033468136
+1905,total,F,titles,7514,cheap series newly omitted,1774,125,mdp.39015033468136
+1905,total,F,editions,598,,1774,125,mdp.39015033468136
+1905,fiction,T,US authored,992,,1774,126,mdp.39015033468136
+1905,fiction,T,US manufactured,314,,1774,126,mdp.39015033468136
+1905,fiction,T,imported,58,,1774,126,mdp.39015033468136
+1905,total,T,US authored,5719,,1774,126,mdp.39015033468136
+1905,total,T,US manufactured,1426,,1774,126,mdp.39015033468136
+1905,total,T,imported,967,,1774,126,mdp.39015033468136
+1906,fiction,F,titles,1075,,1826,143,mdp.39015033468110
+1906,fiction,F,editions,96,,1826,143,mdp.39015033468110
+1906,total,F,titles,6724,,1826,143,mdp.39015033468110
+1906,total,F,editions,415,,1826,143,mdp.39015033468110
+1906,fiction,T,US authored,753,,1826,144,mdp.39015033468110
+1906,fiction,T,US manufactured,295,,1826,144,mdp.39015033468110
+1906,fiction,T,imported,123,,1826,144,mdp.39015033468110
+1906,total,T,US authored,5093,,1826,144,mdp.39015033468110
+1906,total,T,US manufactured,1072,,1826,144,mdp.39015033468110
+1906,total,T,imported,974,,1826,144,mdp.39015033468110
+1907,fiction,F,titles,1150,,1878,141,mdp.39015033468094
+1907,fiction,F,editions,21,,1878,141,mdp.39015033468094
+1907,total,F,titles,8925,,1878,141,mdp.39015033468094
+1907,total,F,editions,695,,1878,141,mdp.39015033468094
+1907,fiction,T,US authored,675,,1878,141,mdp.39015033468094
+1907,fiction,T,US manufactured,353,,1878,141,mdp.39015033468094
+1907,fiction,T,imported,143,,1878,141,mdp.39015033468094
+1907,total,T,US authored,6517,,1878,141,mdp.39015033468094
+1907,total,T,US manufactured,1319,,1878,141,mdp.39015033468094
+1907,total,T,imported,1784,correcting mistaken sum in PW,1878,141,mdp.39015033468094
+1908,fiction,F,titles,1458,,1931,167,mdp.39015033468078
+1908,fiction,F,editions,31,,1931,167,mdp.39015033468078
+1908,total,F,titles,8745,,1931,167,mdp.39015033468078
+1908,total,F,editions,509,,1931,167,mdp.39015033468078
+1908,fiction,T,US authored,802,,1931,168,mdp.39015033468078
+1908,fiction,T,US manufactured,456,,1931,168,mdp.39015033468078
+1908,fiction,T,imported,231,,1931,168,mdp.39015033468078
+1908,total,T,US authored,6349,,1931,168,mdp.39015033468078
+1908,total,T,US manufactured,1145,,1931,168,mdp.39015033468078
+1908,total,T,imported,1760,,1931,168,mdp.39015033468078
+1909,fiction,F,titles,1087,,1983,171,mdp.39015033468052
+1909,fiction,F,editions,11,,1983,171,mdp.39015033468052
+1909,total,F,titles,10193,,1983,171,mdp.39015033468052
+1909,total,F,editions,708,,1983,171,mdp.39015033468052
+1909,fiction,T,US authored,806,,1983,171,mdp.39015033468052
+1909,fiction,T,US manufactured,139,,1983,171,mdp.39015033468052
+1909,fiction,T,imported,153,,1983,171,mdp.39015033468052
+1909,total,T,US authored,8308,,1983,171,mdp.39015033468052
+1909,total,T,US manufactured,828,,1983,171,mdp.39015033468052
+1909,total,T,imported,1765,,1983,171,mdp.39015033468052
+1910,fiction,F,titles,1303,,2034,112,mdp.39015033468037
+1910,fiction,F,editions,236,,2034,112,mdp.39015033468037
+1910,total,F,titles,11671,,2034,112,mdp.39015033468037
+1910,total,F,editions,1799,,2034,112,mdp.39015033468037
+1910,fiction,T,US authored,815,,2034,113,mdp.39015033468037
+1910,fiction,T,US manufactured,524,,2034,113,mdp.39015033468037
+1910,fiction,T,imported,200,,2034,113,mdp.39015033468037
+1910,total,T,US authored,9209,,2034,113,mdp.39015033468037
+1910,total,T,US manufactured,1215,,2034,113,mdp.39015033468037
+1910,total,T,imported,3046,,2034,113,mdp.39015033468037
+1911,fiction,F,titles,999,NB intl classification newly adopted,2086,278,mdp.39015033468011
+1911,fiction,F,editions,25,NB intl classification newly adopted,2086,278,mdp.39015033468011
+1911,fiction,T,US authored,701,NB intl classification newly adopted,2086,278,mdp.39015033468011
+1911,fiction,T,US manufactured,121,NB intl classification newly adopted,2086,278,mdp.39015033468011
+1911,fiction,T,imported,202,NB intl classification newly adopted; all foreign,2086,278,mdp.39015033468011
+1911,total,F,titles,10440,NB intl classification newly adopted,2086,278,mdp.39015033468011
+1911,total,F,editions,783,NB intl classification newly adopted,2086,278,mdp.39015033468011
+1911,total,T,US authored,8183,NB intl classification newly adopted,2086,278,mdp.39015033468011
+1911,total,T,US manufactured,771,NB intl classification newly adopted,2086,278,mdp.39015033468011
+1911,total,T,imported,2269,NB intl classification newly adopted; all foreign,2086,278,mdp.39015033468011
+1912,fiction,F,titles,960,,2138,254,mdp.39015033469050
+1912,fiction,F,editions,50,,2138,254,mdp.39015033469050
+1912,fiction,T,US authored,712,,2138,254,mdp.39015033469050
+1912,fiction,T,US manufactured,110,,2138,254,mdp.39015033469050
+1912,fiction,T,imported,188,,2138,254,mdp.39015033469050
+1912,total,F,titles,10135,,2138,254,mdp.39015033469050
+1912,total,F,editions,768,,2138,254,mdp.39015033469050
+1912,total,T,US authored,7975,,2138,254,mdp.39015033469050
+1912,total,T,US manufactured,504,,2138,254,mdp.39015033469050
+1912,total,T,imported,2424,,2138,254,mdp.39015033469050
+1913,fiction,F,titles,943,NB changed edition classification,2910,273,mdp.39015033469035
+1913,fiction,F,editions,213,NB changed edition classification,2910,273,mdp.39015033469035
+1913,fiction,T,US authored,790,NB changed edition classification,2910,273,mdp.39015033469035
+1913,fiction,T,US manufactured,164,NB changed edition classification,2910,273,mdp.39015033469035
+1913,fiction,T,imported,202,NB changed edition classification,2910,273,mdp.39015033469035
+1913,total,F,titles,10607,NB changed edition classification,2910,273,mdp.39015033469035
+1913,total,F,editions,1623,NB changed edition classification,2910,273,mdp.39015033469035
+1913,total,T,US authored,9085,NB changed edition classification,2910,273,mdp.39015033469035
+1913,total,T,US manufactured,677,NB changed edition classification,2910,273,mdp.39015033469035
+1913,total,T,imported,2468,NB changed edition classification,2910,273,mdp.39015033469035
+1914,fiction,F,titles,832,,2242,226,mdp.39015033469019
+1914,fiction,F,editions,221,,2242,226,mdp.39015033469019
+1914,fiction,T,US authored,689,,2242,226,mdp.39015033469019
+1914,fiction,T,US manufactured,118,,2242,226,mdp.39015033469019
+1914,fiction,T,imported,246,,2242,226,mdp.39015033469019
+1914,total,F,titles,10175,,2242,226,mdp.39015033469019
+1914,total,F,editions,1835,,2242,226,mdp.39015033469019
+1914,total,T,US authored,8563,,2242,226,mdp.39015033469019
+1914,total,T,US manufactured,595,,2242,226,mdp.39015033469019
+1914,total,T,imported,2852,,2242,226,mdp.39015033469019
+1915,fiction,F,titles,728,,2294,249,mdp.39015033468755
+1915,fiction,F,editions,191,,2294,249,mdp.39015033468755
+1915,fiction,T,US authored,643,,2294,249,mdp.39015033468755
+1915,fiction,T,US manufactured,80,,2294,249,mdp.39015033468755
+1915,fiction,T,imported,196,,2294,249,mdp.39015033468755
+1915,total,F,titles,8349,,2294,249,mdp.39015033468755
+1915,total,F,editions,1385,,2294,249,mdp.39015033468755
+1915,total,T,US authored,6932,,2294,249,mdp.39015033468755
+1915,total,T,US manufactured,464,,2294,249,mdp.39015033468755
+1915,total,T,imported,2338,,2294,249,mdp.39015033468755
+1916,fiction,F,titles,736,,2347,257,mdp.39015033468771
+1916,fiction,F,editions,196,,2347,257,mdp.39015033468771
+1916,fiction,T,US authored,703,,2347,257,mdp.39015033468771
+1916,fiction,T,US manufactured,79,,2347,257,mdp.39015033468771
+1916,fiction,T,imported,150,,2347,257,mdp.39015033468771
+1916,total,F,titles,9160,,2347,257,mdp.39015033468771
+1916,total,F,editions,1285,,2347,257,mdp.39015033468771
+1916,total,T,US authored,8430,,2347,257,mdp.39015033468771
+1916,total,T,US manufactured,367,,2347,257,mdp.39015033468771
+1916,total,T,imported,1648,,2347,257,mdp.39015033468771
+1917,fiction,F,titles,677,,2399,247,mdp.39015033468797
+1917,fiction,F,editions,245,,2399,247,mdp.39015033468797
+1917,fiction,T,US authored,632,,2399,247,mdp.39015033468797
+1917,fiction,T,US manufactured,156,,2399,247,mdp.39015033468797
+1917,fiction,T,imported,134,,2399,247,mdp.39015033468797
+1917,total,F,titles,8849,,2399,247,mdp.39015033468797
+1917,total,F,editions,1211,,2399,247,mdp.39015033468797
+1917,total,T,US authored,8107,,2399,247,mdp.39015033468797
+1917,total,T,US manufactured,629,,2399,247,mdp.39015033468797
+1917,total,T,imported,1324,,2399,247,mdp.39015033468797
+1918,fiction,F,titles,620,,95.4,228,mdp.39015033468813
+1918,fiction,F,editions,168,,95.4,228,mdp.39015033468813
+1918,fiction,T,US authored,594,,95.4,228,mdp.39015033468813
+1918,fiction,T,US manufactured,157,,95.4,228,mdp.39015033468813
+1918,fiction,T,imported,37,,95.4,228,mdp.39015033468813
+1918,total,F,titles,8085,,95.4,228,mdp.39015033468813
+1918,total,F,editions,1152,,95.4,228,mdp.39015033468813
+1918,total,T,US authored,7686,,95.4,228,mdp.39015033468813
+1918,total,T,US manufactured,648,,95.4,228,mdp.39015033468813
+1918,total,T,imported,903,,95.4,228,mdp.39015033468813
+1919,fiction,F,titles,671,,97.5,284,mdp.39015033468839
+1919,fiction,F,editions,233,,97.5,284,mdp.39015033468839
+1919,fiction,T,US authored,661,,97.5,284,mdp.39015033468839
+1919,fiction,T,US manufactured,208,,97.5,284,mdp.39015033468839
+1919,fiction,T,imported,35,,97.5,284,mdp.39015033468839
+1919,total,F,titles,7625,,97.5,284,mdp.39015033468839
+1919,total,F,editions,969,,97.5,284,mdp.39015033468839
+1919,total,T,US authored,7179,,97.5,284,mdp.39015033468839
+1919,total,T,US manufactured,607,,97.5,284,mdp.39015033468839
+1919,total,T,imported,808,,97.5,284,mdp.39015033468839
+1920,fiction,F,titles,778,NB pamphlets newly separated out,99.5,273,mdp.39015033468995
+1920,fiction,F,editions,345,,99.5,273,mdp.39015033468995
+1920,fiction,F,pamphlets,31,,99.5,273,mdp.39015033468995
+1920,fiction,T,US authored,861,,99.5,273,mdp.39015033468995
+1920,fiction,T,US manufactured,232,,99.5,273,mdp.39015033468995
+1920,fiction,T,imported,61,,99.5,273,mdp.39015033468995
+1920,total,F,titles,5101,,99.5,273,mdp.39015033468995
+1920,total,F,editions,1086,,99.5,273,mdp.39015033468995
+1920,total,F,pamphlets,2235,,99.5,273,mdp.39015033468995
+1920,total,T,US authored,6831,,99.5,273,mdp.39015033468995
+1920,total,T,US manufactured,615,,99.5,273,mdp.39015033468995
+1920,total,T,imported,976,,99.5,273,mdp.39015033468995
+1921,fiction,F,titles,683,,101.4,185,mdp.39015033468979
+1921,fiction,F,editions,277,,101.4,185,mdp.39015033468979
+1921,fiction,F,pamphlets,12,,101.4,185,mdp.39015033468979
+1921,fiction,T,US authored,765,,101.4,185,mdp.39015033468979
+1921,fiction,T,US manufactured,169,,101.4,185,mdp.39015033468979
+1921,fiction,T,imported,38,,101.4,185,mdp.39015033468979
+1921,total,F,titles,5438,,101.4,185,mdp.39015033468979
+1921,total,F,editions,1008,,101.4,185,mdp.39015033468979
+1921,total,F,pamphlets,1883,,101.4,185,mdp.39015033468979
+1921,total,T,US authored,6526,,101.4,185,mdp.39015033468979
+1921,total,T,US manufactured,451,,101.4,185,mdp.39015033468979
+1921,total,T,imported,1352,,101.4,185,mdp.39015033468979
