@@ -31,6 +31,13 @@ The transcription is in a CSV format, with one row for each table cell. The colu
 
 - `source`: the HathiTrust ID of the scanned volume I have used. Prefix `https://babel.hathitrust.org/shcgi/pt?id=` to obtain a URL.
 
+In R, the file can be loaded with
+
+```R
+library("readr")
+pw <- read_csv("pw-us-titles.csv", col_types=cols(issue=col_character()))
+```
+
 It is probably best to consider these statistics as a representation of a *classifying practice* rather than an objective measurement. First, *Publishers Weekly* enacts a division between "Juvenile" and "Fiction"; this division was problematic enough that the British *Publishers Circular* gave up on it in 1896. Second, the judgments about novelty and the distinction between a "new title" and a "new edition" are continually being subject to revision, as the yearly comments on the tables in *PW* attest. Finally, many new publications are not counted either because *PW* does not receive them, or *PW* does not seek out information about them, or *PW* does not consider them worth counting. I am still unsure about when and to what degree dime novels, for example, are counted. Thus, Street & Smith's paperback series are listed when *PW* introduces a separate listing of series in its Annual Summary Number for 1901 (the separate listing is discontinued in 1906, but Street & Smith's titles continue to be included). I do not find entries for S&S's dime novels before 1900 in *PW*'s Weekly Records, though I have not made an exhaustive search.
 
 # Pull requests
