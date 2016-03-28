@@ -55,7 +55,7 @@ I will keep a running list of contributors in this file so that any users of thi
 
 # More to come
 
-I plan to make a similar transcription of the *Publishers' Circular* figures for the UK available.
+I plan to make a similar transcription of the *Publishers' Circular* figures for the UK available. In the meantime, a printed reference for such figures is Simon Eliot, *Some Patterns and Trends in British Publishing, 1800–1919* (London: Bibliographical Society, 1994).
 
 # Contributors
 
