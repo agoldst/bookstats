@@ -7,7 +7,9 @@ Summary information about the book industries of the nineteenth and early twenti
 
 I have often wanted such statistics, both in my teaching and my research. Here is a start on making them available. Since IANABH (I am not a book historian), this may duplicate work that has already been done in scholarship I am not aware of. If someone shows up to scold me about that, so much the better: I'll be able to use someone else's more polished work.
 
-# US title production, 1888–1921, from *Publishers' Weekly*
+# US title production
+
+## Fiction and total new titles, 1888–1921, from *Publishers' Weekly*
 
 The file `pw-us-titles.csv` contains statistics on title production by US publishers as given in the the annual tabulations in *Publishers' Weekly*, which appear in the last January issue. My particular source has been the scans of the odd-numbered volumes from the University of Michigan found in HathiTrust (Hathi holds at least two copies of each volume of *PW*, but the scans of the volumes from Harvard are consistently worse in quality, often missing pages or distorted. The Michigan scans are imperfect too, but less so).
 
@@ -42,6 +44,54 @@ pw <- read_csv("pw-us-titles.csv", col_types=cols(issue=col_character()))
 
 It is probably best to consider these statistics as a representation of a *classifying practice* rather than an objective measurement. First, *Publishers' Weekly* enacts a division between "Juvenile" and "Fiction"; this division was problematic enough that the British *Publishers' Circular* gave up on it in 1896. Second, the judgments about novelty and the distinction between a "new title" and a "new edition" are continually being subject to revision, as the yearly comments on the tables in *PW* attest. Finally, many new publications are not counted either because *PW* does not receive them, or *PW* does not seek out information about them, or *PW* does not consider them worth counting. I am still unsure about when and to what degree dime novels, for example, are counted. Thus, Street & Smith's paperback series are listed when *PW* introduces a separate listing of series in its Annual Summary Number for 1901 (the separate listing is discontinued in 1906, but Street & Smith's titles continue to be included). I do not find entries for S&S's dime novels before 1900 in *PW*'s Weekly Records, though I have not made an exhaustive search.
 
+## US Book Titles by Category, 1880-1927
+
+In 1929 *PW* reprinted a summary table compiled by Downing Palmer O'Hara from its own yearly summaries--which goes to show, incidentally, that the present labor of retranscribing this data has been ongoing for at least 90 years. Sushil Sivaram and I have OCR'd a digital file of this table and corrected the figures (some errors may well remain). The citation for the source is
+
+Downing Palmer O'Hara, "Book Titles Published by Classes in the United States, 1880-1927," _Publishers' Weekly_, January 19, 1929: 276-77; *Publishers Weekly Archive*, [pubweekly.napubcoonline.com](https://pubweekly.napubcoonline.com).
+
+Each entry in the table is the *sum of new titles and new editions* in the category. The alignment of categories with the varying labels used over time by *PW* is O'Hara's.  
+
+I have corrected what appear to be O'Hara's mistranscriptions (I have not consulted the MA thesis from which the table is taken) as follows:
+
+1887, Sociology: 147] 143 [cf. table on <https://hdl.handle.net/2027/mdp.39015033509525?urlappend=%3Bseq=331> s.v. "Political and Social Science"]
+
+1904, General Literature: 627] 697 [cf. table on <https://hdl.handle.net/2027/mdp.39015033468151?urlappend=%3Bseq=125> s.v. "Literature and Collected Works"]
+
+The file format is CSV; I have preserved O'Hara's column headers, some of which have spaces in them. Missing entries are simply empty in the transcription. The file can be read in R with
+
+```R
+library("readr")
+ohara <- read_csv("ohara.csv")
+```
+
+The correspondence with the fiction and all-title tallies in `pw-us-titles.csv` can be verified with
+
+```R
+library("tidyverse")
+
+# verify fiction count
+pw %>% filter(category == "fiction", !by_origin) %>%
+    group_by(year) %>%
+    summarize(count=sum(count)) %>%
+    left_join(ohara %>% select(Year, Fiction), by=c(year="Year")) %>% summarize(all(count == Fiction))
+
+# sum O'Hara's categories to get yearly totals of all titles and editions
+ohara_totals <- ohara %>% gather(category, count, -Year) %>%
+    replace_na(list(count=0)) %>%
+    group_by(Year) %>%
+    summarize(count=sum(count))
+
+# verify that these totals correspond to PW's
+pw %>% filter(category == "total", !by_origin) %>%
+    group_by(year) %>%
+    summarize(count=sum(count)) %>%
+    left_join(ohara_totals %>% select(Year, count), by=c(year="Year")) %>%
+    summarize(all(count.x == count.y))
+```
+
+(Making this check enabled me to fix a number of transcription errors, but note that some may certainly remain.)
+
 # Pull requests
 
 I would very much welcome additions to this data—as well as corrections. If you wish to transcribe more of the tables represented here only in excerpt, I would welcome the contribution. When you make a pull request, please
@@ -59,4 +109,5 @@ I plan to make a similar transcription of the *Publishers' Circular* figures for
 
 # Contributors
 
-Andrew Goldstone (March 2016)
+Andrew Goldstone (March 2016–present)
+Sushil Sivaram (September 2019–present)
