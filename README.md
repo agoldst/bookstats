@@ -11,7 +11,7 @@ I have often wanted such statistics, both in my teaching and my research. Here i
 
 ## Fiction and total new titles, 1888–1921, from *Publishers' Weekly*
 
-The file `pw-us-titles.csv` contains statistics on title production by US publishers as given in the the annual tabulations in *Publishers' Weekly*, which appear in the last January issue. My particular source has been the scans of the odd-numbered volumes from the University of Michigan found in HathiTrust (Hathi holds at least two copies of each volume of *PW*, but the scans of the volumes from Harvard are consistently worse in quality, often missing pages or distorted. The Michigan scans are imperfect too, but less so).
+The file [pw-us-titles.csv](pw-us-titles.csv) contains statistics on title production by US publishers as given in the the annual tabulations in *Publishers' Weekly*, which appear in the last January issue. My particular source has been the scans of the odd-numbered volumes from the University of Michigan found in HathiTrust (Hathi holds at least two copies of each volume of *PW*, but the scans of the volumes from Harvard are consistently worse in quality, often missing pages or distorted. The Michigan scans are imperfect too, but less so).
 
 I was interested in fiction publishing, and so I have started by transcribing the yearly numbers for fiction. As a baseline I have also transcribed the overall totals for title production.
 
@@ -46,7 +46,7 @@ It is probably best to consider these statistics as a representation of a *class
 
 ## US Book Titles by Category, 1880-1927
 
-In 1929 *PW* reprinted a summary table compiled by Downing Palmer O'Hara from its own yearly summaries--which goes to show, incidentally, that the present labor of retranscribing this data has been ongoing for at least 90 years. Sushil Sivaram and I have OCR'd a digital file of this table and corrected the figures (some errors may well remain). The citation for the source is
+The file [ohara.csv](ohara.csv) transcribes a 1929 summary table compiled by Downing Palmer O'Hara from *PW*'s own yearly summaries--which goes to show, incidentally, that the present labor of retranscribing this data has been ongoing for at least 90 years. Sushil Sivaram and I have OCR'd a digital file of this table (as reprinted in *PW* itself) and corrected the figures (some errors may well remain). The citation for the source is
 
 Downing Palmer O'Hara, "Book Titles Published by Classes in the United States, 1880-1927," _Publishers' Weekly_, January 19, 1929: 276-77; *Publishers Weekly Archive*, [pubweekly.napubcoonline.com](https://pubweekly.napubcoonline.com).
 
@@ -90,7 +90,7 @@ pw %>% filter(category == "total", !by_origin) %>%
     summarize(all(count.x == count.y))
 ```
 
-(Making this check enabled me to fix a number of transcription errors, but note that some may certainly remain.)
+(Making this check enabled me to fix a number of transcription errors.)
 
 # Pull requests
 
@@ -110,4 +110,5 @@ I plan to make a similar transcription of the *Publishers' Circular* figures for
 # Contributors
 
 Andrew Goldstone (March 2016–present)
+
 Sushil Sivaram (September 2019–present)
