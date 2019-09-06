@@ -1,6 +1,6 @@
 year	format	category	copies
 1925	aggregate		433,211,253
-1925	books	Total	200,997,249
+1925	books	total	200,997,249
 1925	books	Textbooks (for school use)	78,641,843
 1925	books	Juvenile	25,213,635
 1925	books	Agriculture	463,107
@@ -16,7 +16,7 @@ year	format	category	copies
 1925	books	Sociology and economics	563,471
 1925	books	Travel	704,825
 1925	books	All other	32,849,392
-1925	pamphlets	Total	232,214,004
+1925	pamphlets	total	232,214,004
 1925	pamphlets	Texts (for school use)	27,661,513
 1925	pamphlets	Juvenile	3,481,050
 1925	pamphlets	General literature	201,071,441
