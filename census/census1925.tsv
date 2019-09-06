@@ -1,22 +1,22 @@
-format	category	count
-Aggregate		433,211,253
-Books	Total	200,997,249
-Books	Textbooks (for school use)	78,641,843
-Books	Juvenile	25,213,635
-Books	Agriculture	463,107
-Books	Biography	2,691,583
-Books	Fiction	30,598,410
-Books	Fine arts	1,062,729
-Books	History	1,253,147
-Books	Law	2,239,116
-Books	Medicine	1,560,169
-Books	Poetry and drama	8,817,255
-Books	Religion and philosophy	12,244,224
-Books	Science and technology	2,094,343
-Books	Sociology and economics	563,471
-Books	Travel	704,825
-Books	All other	32,849,392
-Pamphlets	Total	232,214,004
-Pamphlets	Texts (for school use)	27,661,513
-Pamphlets	Juvenile	3,481,050
-Pamphlets	General literature	201,071,441
+year	format	category	copies
+1925	Aggregate		433,211,253
+1925	Books	Total	200,997,249
+1925	Books	Textbooks (for school use)	78,641,843
+1925	Books	Juvenile	25,213,635
+1925	Books	Agriculture	463,107
+1925	Books	Biography	2,691,583
+1925	Books	Fiction	30,598,410
+1925	Books	Fine arts	1,062,729
+1925	Books	History	1,253,147
+1925	Books	Law	2,239,116
+1925	Books	Medicine	1,560,169
+1925	Books	Poetry and drama	8,817,255
+1925	Books	Religion and philosophy	12,244,224
+1925	Books	Science and technology	2,094,343
+1925	Books	Sociology and economics	563,471
+1925	Books	Travel	704,825
+1925	Books	All other	32,849,392
+1925	Pamphlets	Total	232,214,004
+1925	Pamphlets	Texts (for school use)	27,661,513
+1925	Pamphlets	Juvenile	3,481,050
+1925	Pamphlets	General literature	201,071,441
