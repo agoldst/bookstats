@@ -1,5 +1,5 @@
 year	format	category	copies
-1929	Aggregate		430,199,433
+1929	aggregate		430,199,433
 1929	books	total	214,334,423
 1929	books	Agriculture	688,810
 1929	books	Religion and philosophy	17,625,949
@@ -20,7 +20,7 @@ year	format	category	copies
 1929	pamphlets	Juvenile	8,273,065
 1929	pamphlets	Texts (for school use)	39,696,158
 1929	pamphlets	All other	167,895,787
-1931	Aggregate		370,515,790
+1931	aggregate		370,515,790
 1931	books	total	154,461,622
 1931	books	Agriculture	276,929
 1931	books	Bibles and testaments	1,376,680
@@ -44,7 +44,7 @@ year	format	category	copies
 1931	pamphlets	Juvenile	7,692,942
 1931	pamphlets	Texts (for school use)	24,706,253
 1931	pamphlets	All other	183,654,973
-1933	Aggregate		258,948,413
+1933	aggregate		258,948,413
 1933	books	total	110,789,913
 1933	books	Agriculture	131,382
 1933	books	Bibles and testaments	666,448
@@ -69,7 +69,7 @@ year	format	category	copies
 1933	pamphlets	Texts (for school use)	14,995,206
 1933	pamphlets	All other	123,167,951
 1933	pamphlets	Maps, atlases, and globe covers	4,671,021
-1935	Aggregate		345,822,762
+1935	aggregate		345,822,762
 1935	books	total	140,651,953
 1935	books	Agriculture	177,071
 1935	books	Bibles and testaments	591,173
