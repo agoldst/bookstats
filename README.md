@@ -1,5 +1,5 @@
 
-# Pre-1923 book production and circulation statistics
+# Early-twentieth-century book production and circulation statistics
 
 ## A transcription
 
@@ -91,6 +91,10 @@ pw %>% filter(category == "total", !by_origin) %>%
 ```
 
 (Making this check enabled me to fix a number of transcription errors.)
+
+# US Book Production, 1905–1939
+
+In the [census](census) folder are transcriptions of US Census of Manufactures data on the number of copies of books produced (by category). More detail can be found in the [README](census/README.md) file there .
 
 # Pull requests
 

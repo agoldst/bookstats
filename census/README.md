@@ -43,3 +43,9 @@ book_prod %>%
     ungroup() %>%
     summarize(all(check))
 ```
+
+# To be continued....
+
+The Census of Manufactures (subsequently the Economic Census) continued past 1940, of course, and I hope to locate and transcribe data from later censuses (or to receive help doing this...).
+
+Andrew Goldstone, September 2019
